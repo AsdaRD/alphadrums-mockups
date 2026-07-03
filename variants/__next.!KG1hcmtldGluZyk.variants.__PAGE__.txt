@@ -1,0 +1,668 @@
+1:"$Sreact.fragment"
+24:I[97367,["/alphadrums-mockups/_next/static/chunks/2fv_3g98xv1or.js","/alphadrums-mockups/_next/static/chunks/35f5-__hch43f.js","/alphadrums-mockups/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+25:"$Sreact.suspense"
+2:Tfae,<svg viewBox="0 0 240 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="BloodyMilk carton — gable classic">
+  <defs>
+    <linearGradient id="gc-front" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b7b1a2"/><stop offset="0.12" stop-color="#e9e4d6"/>
+      <stop offset="0.45" stop-color="#fffef6"/><stop offset="0.85" stop-color="#efe9dc"/>
+      <stop offset="1" stop-color="#d8d2c2"/>
+    </linearGradient>
+    <linearGradient id="gc-side" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c9c2b1"/><stop offset="0.4" stop-color="#b3ac9b"/>
+      <stop offset="1" stop-color="#948d7c"/>
+    </linearGradient>
+    <linearGradient id="gc-gable" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f7f2e6"/><stop offset="1" stop-color="#ddd6c6"/>
+    </linearGradient>
+    <linearGradient id="gc-roof" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#cfc8b7"/><stop offset="1" stop-color="#a29b8a"/>
+    </linearGradient>
+    <linearGradient id="gc-blood" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff5a63"/><stop offset="0.25" stop-color="#d91f33"/>
+      <stop offset="0.65" stop-color="#a60a1c"/><stop offset="1" stop-color="#70030f"/>
+    </linearGradient>
+    <filter id="gc-blur3" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+  <rect width="240" height="320" fill="#0d0d12"/>
+  <ellipse cx="126" cy="290" rx="72" ry="9" fill="#000" opacity="0.55" filter="url(#gc-blur3)"/>
+  <path d="M148 130 L196 114 L196 252 L148 270 Z" fill="url(#gc-side)"/>
+  <path d="M62 126 L148 130 L148 270 L62 266 Z" fill="url(#gc-front)"/>
+  <path d="M62 126 L148 130 L106 84 Z" fill="url(#gc-gable)"/>
+  <path d="M148 130 L196 114 L152 70 L106 84 Z" fill="url(#gc-roof)"/>
+  <path d="M103 86 L155 68" stroke="#f7f2e6" stroke-width="7" stroke-linecap="round"/>
+  <path d="M103 89 L155 71" stroke="#8f8877" stroke-width="1.4" opacity="0.6"/>
+  <path d="M62 126 L148 130" stroke="#8f8877" stroke-width="1" opacity="0.5"/>
+  <path d="M148 130 L148 270" stroke="#6d6656" stroke-width="1.2" opacity="0.6"/>
+  <path d="M62 266 L148 270 L196 252" fill="none" stroke="#565040" stroke-width="1.4" opacity="0.7"/>
+  <rect x="70" y="140" width="8" height="118" rx="4" fill="#fff" opacity="0.5" filter="url(#gc-blur3)"/>
+  <rect x="152" y="140" width="5" height="112" rx="2.5" fill="#fff" opacity="0.14"/>
+  <text x="106" y="232" text-anchor="middle" font-family="Archivo,'Arial Black',sans-serif" font-weight="900" font-size="76" fill="#a60a1c">B</text>
+  <g transform="translate(172,196) skewY(-18.3)">
+    <text x="0" y="36" text-anchor="middle" font-family="Archivo,'Arial Black',sans-serif" font-weight="900" font-size="44" fill="#7c0412" opacity="0.92">M</text>
+  </g>
+  <path d="M100 87 C112 80 146 72 154 71 C158 74 156 79 150 82 C146 92 143 98 139 96 C135 94 137 87 132 88 C127 89 129 100 124 108 C121 113 116 112 115 106 C114 98 113 92 108 93 C104 94 105 99 101 99 C97 99 96 92 100 87 Z" fill="url(#gc-blood)"/>
+  <path d="M118 96 C118 116 117 138 118 156 C118.5 163 125.5 163 126 156 C127 138 126 116 125 96 Z" fill="url(#gc-blood)"/>
+  <path d="M97 98 C96 112 95 128 95.5 140 C95.8 146 101.2 146 101.5 140 C102 128 101.5 112 102 100 Z" fill="url(#gc-blood)"/>
+  <path d="M143 92 C144 104 145.5 118 145 130 C144.7 135.5 139.3 135.5 139 130 C138.5 118 139.5 104 139 94 Z" fill="url(#gc-blood)"/>
+  <path d="M160 80 C162 94 164 110 163.5 124 C163.3 129.5 158.2 130.6 158 125 C157.5 111 158 96 157 82 Z" fill="url(#gc-blood)"/>
+  <path d="M98 143 C100.5 147.5 101.8 150.4 101.8 152.6 C101.8 155.2 100 156.8 98.2 156.8 C96.4 156.8 94.8 155.2 94.8 152.6 C94.8 150.4 95.8 147.5 98 143 Z" fill="url(#gc-blood)"/>
+  <path d="M120 100 C119.6 116 119.6 132 120 146" fill="none" stroke="#ff8f96" stroke-width="1.4" stroke-linecap="round" opacity="0.55"/>
+  <path d="M108 80 C118 75 138 71 148 70" fill="none" stroke="#ff9aa0" stroke-width="1.6" stroke-linecap="round" opacity="0.6"/>
+</svg>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"container-page pb-32 pt-32","children":[["$","p",null,{"className":"hud-label text-ink-lo","children":"Internal — S1.5 · рішення користувача формує напрям"}],["$","h1",null,{"className":"display-title mt-4 text-5xl","children":"Варіанти"}],["$","p",null,{"className":"mt-5 max-w-2xl text-ink-lo","children":"Обраний варіант лого і знака буде дороблено (деталізація, лігатури, favicon, wordmark-локапи). Дизайн-напрям визначає ретемінг токенів — архітектура з динамічним акцентом робить це дешевим."}],["$","div",null,{"className":"mb-10 mt-24 border-b border-line pb-4","children":[["$","p",null,{"className":"hud-label text-accent","children":"BloodyMilk — photoreal carton · B і M на різних гранях"}],["$","h2",null,{"className":"display-title mt-3 text-3xl md:text-4xl","children":"Лого бренду: коробка"}]]}],["$","div",null,{"className":"grid gap-5 sm:grid-cols-2 lg:grid-cols-3","children":[["$","article","Gable Classic — молочний пакет",{"className":"glass-panel overflow-hidden","children":[["$","div",null,{"className":"flex justify-center bg-[#0d0d12] [&>svg]:h-auto [&>svg]:w-full [&>svg]:max-w-60","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4","$L5"]}],"$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BqxN3uZtxWoRE27pZ8ej6"}
+3:["$","div",null,{"className":"p-6","children":[["$","p",null,{"className":"hud-label text-accent","children":["Коробка ",1]}],["$","h3",null,{"className":"mt-2 font-display text-lg font-extrabold uppercase tracking-[0.02em]","children":"Gable Classic — молочний пакет"}],["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-ink-lo","children":"Класичний gable-top пакет у 3/4: B на фронтальній грані, M на бічній (у перспективі), кров наливається на гребінь і стікає по обох гранях. Обʼєм — пофасетні градієнти (світлий фронт, тінь на боці), друк літер — «молочарський» червоний."}]]}]
+d:Te6d,<svg viewBox="0 0 240 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="BloodyMilk carton — slasher flood">
+  <defs>
+    <linearGradient id="sc-front" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b7b1a2"/><stop offset="0.12" stop-color="#e9e4d6"/>
+      <stop offset="0.45" stop-color="#fffef6"/><stop offset="0.85" stop-color="#efe9dc"/>
+      <stop offset="1" stop-color="#d8d2c2"/>
+    </linearGradient>
+    <linearGradient id="sc-side" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c9c2b1"/><stop offset="0.4" stop-color="#b3ac9b"/>
+      <stop offset="1" stop-color="#948d7c"/>
+    </linearGradient>
+    <linearGradient id="sc-blood" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e5303f"/><stop offset="0.3" stop-color="#b30f20"/>
+      <stop offset="0.7" stop-color="#84061a"/><stop offset="1" stop-color="#5a0310"/>
+    </linearGradient>
+    <linearGradient id="sc-bloodTop" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d5142b"/><stop offset="1" stop-color="#8c0715"/>
+    </linearGradient>
+    <filter id="sc-blur3" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+  <rect width="240" height="320" fill="#0d0d12"/>
+  <ellipse cx="126" cy="290" rx="72" ry="9" fill="#000" opacity="0.55" filter="url(#sc-blur3)"/>
+  <ellipse cx="112" cy="292" rx="13" ry="3.2" fill="#6b030f" opacity="0.9"/>
+  <path d="M148 130 L196 114 L196 252 L148 270 Z" fill="url(#sc-side)"/>
+  <path d="M62 126 L148 130 L148 270 L62 266 Z" fill="url(#sc-front)"/>
+  <path d="M148 130 L148 270" stroke="#6d6656" stroke-width="1.2" opacity="0.6"/>
+  <path d="M62 266 L148 270 L196 252" fill="none" stroke="#565040" stroke-width="1.4" opacity="0.7"/>
+  <rect x="70" y="150" width="8" height="106" rx="4" fill="#fff" opacity="0.5" filter="url(#sc-blur3)"/>
+  <text x="106" y="234" text-anchor="middle" font-family="Archivo,'Arial Black',sans-serif" font-weight="900" font-size="76" fill="#a60a1c">B</text>
+  <g transform="translate(172,198) skewY(-18.3)">
+    <text x="0" y="36" text-anchor="middle" font-family="Archivo,'Arial Black',sans-serif" font-weight="900" font-size="44" fill="#7c0412" opacity="0.92">M</text>
+  </g>
+  <path d="M62 126 L148 130 L106 84 Z" fill="url(#sc-bloodTop)"/>
+  <path d="M148 130 L196 114 L152 70 L106 84 Z" fill="url(#sc-bloodTop)"/>
+  <path d="M101 85 L157 66" stroke="#e5303f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M62 126 C74 124 90 127 106 128 C122 129 138 129 148 130 L196 114 C190 120 184 124 178 128 C176 138 176 150 172 150 C168 150 168 136 164 132 C160 130 158 132 158 140 C158 152 158 168 152 168 C146 168 148 148 144 144 C140 142 138 146 138 158 C138 176 139 198 132 198 C125 198 128 170 124 162 C121 156 118 158 117 168 C116 182 117 204 110 204 C103 204 106 176 103 166 C101 158 96 160 95 168 C94 178 94 190 89 190 C84 190 86 172 84 162 C82 152 76 154 74 146 C72 138 66 132 62 126 Z" fill="url(#sc-blood)"/>
+  <path d="M131 204 C133.5 209 134.8 212 134.8 214.6 C134.8 217.6 132.8 219.4 130.6 219.4 C128.4 219.4 126.4 217.6 126.4 214.6 C126.4 212 127.8 209 131 204 Z" fill="url(#sc-blood)"/>
+  <path d="M111 240 Q116 249 116 255 Q116 261 111 261 Q106 261 106 255 Q106 249 111 240 Z" fill="url(#sc-blood)"/>
+  <path d="M75 128 C86 124 108 122 120 123" fill="none" stroke="#ff8a94" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <path d="M112 168 C111.5 178 111.5 190 112 198" fill="none" stroke="#ff96a1" stroke-width="1.5" stroke-linecap="round" opacity="0.55"/>
+  <path d="M166 136 C165.5 140 165.5 144 166 148" fill="none" stroke="#ff96a1" stroke-width="1.3" stroke-linecap="round" opacity="0.5"/>
+</svg>4:["$","article","Slasher Carton — залитий пакет",{"className":"glass-panel overflow-hidden","children":[["$","div",null,{"className":"flex justify-center bg-[#0d0d12] [&>svg]:h-auto [&>svg]:w-full [&>svg]:max-w-60","dangerouslySetInnerHTML":{"__html":"$d"}}],"$Le"]}]
+f:Tc36,<svg viewBox="0 0 240 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="BloodyMilk carton — tetra cube minimal">
+  <defs>
+    <linearGradient id="tc-front" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c2bcae"/><stop offset="0.15" stop-color="#f0ebdf"/>
+      <stop offset="0.5" stop-color="#fffef8"/><stop offset="0.88" stop-color="#ece6d9"/>
+      <stop offset="1" stop-color="#d5cfbf"/>
+    </linearGradient>
+    <linearGradient id="tc-side" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c6bfae"/><stop offset="0.5" stop-color="#aca596"/>
+      <stop offset="1" stop-color="#8d8676"/>
+    </linearGradient>
+    <linearGradient id="tc-top" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#faf6ea"/><stop offset="1" stop-color="#dcd6c6"/>
+    </linearGradient>
+    <linearGradient id="tc-blood" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d5142b"/><stop offset="0.5" stop-color="#9c0a18"/>
+      <stop offset="1" stop-color="#6f0310"/>
+    </linearGradient>
+    <filter id="tc-blur3" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+  <rect width="240" height="320" fill="#0d0d12"/>
+  <ellipse cx="126" cy="286" rx="74" ry="9" fill="#000" opacity="0.55" filter="url(#tc-blur3)"/>
+  <path d="M148 118 L198 102 L198 248 L148 266 Z" fill="url(#tc-side)"/>
+  <path d="M60 114 L148 118 L148 266 L60 262 Z" fill="url(#tc-front)"/>
+  <path d="M60 114 L110 100 L198 102 L148 118 Z" fill="url(#tc-top)"/>
+  <path d="M60 114 L148 118" stroke="#8f8877" stroke-width="1" opacity="0.55"/>
+  <path d="M148 118 L148 266" stroke="#6d6656" stroke-width="1.2" opacity="0.6"/>
+  <path d="M60 262 L148 266 L198 248" fill="none" stroke="#565040" stroke-width="1.4" opacity="0.7"/>
+  <rect x="67" y="128" width="7" height="122" rx="3.5" fill="#fff" opacity="0.5" filter="url(#tc-blur3)"/>
+  <rect x="151.5" y="128" width="4" height="118" rx="2" fill="#fff" opacity="0.13"/>
+  <text x="104" y="216" text-anchor="middle" font-family="Archivo,'Arial Black',sans-serif" font-weight="900" font-size="84" fill="#181410">B</text>
+  <g transform="translate(173,180) skewY(-17.7)">
+    <text x="0" y="40" text-anchor="middle" font-family="Archivo,'Arial Black',sans-serif" font-weight="900" font-size="48" fill="#2a2118" opacity="0.9">M</text>
+  </g>
+  <text x="104" y="242" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="7.5" letter-spacing="3" fill="#8d8676">BLOODYMILK · GRADE A</text>
+  <path d="M128 104 L172 103 L166 106 C165 112 165.5 120 162.5 120 C159.5 120 160 110 156 108 C150 106 138 105 128 104 Z" fill="url(#tc-blood)"/>
+  <path d="M160 108 C161 124 162.5 142 162 158 C161.8 164 156.2 164 156 158 C155.5 142 156.5 124 156 110 Z" fill="url(#tc-blood)"/>
+  <path d="M158.5 162 C160.8 166.4 162 169.2 162 171.4 C162 174 160.2 175.6 158.4 175.6 C156.6 175.6 155 174 155 171.4 C155 169.2 156.2 166.4 158.5 162 Z" fill="url(#tc-blood)"/>
+  <path d="M158 114 C158.5 128 159 142 158.8 152" fill="none" stroke="#ff8f96" stroke-width="1.3" stroke-linecap="round" opacity="0.6"/>
+</svg>5:["$","article","Tetra Cube — мінімал-брік",{"className":"glass-panel overflow-hidden","children":[["$","div",null,{"className":"flex justify-center bg-[#0d0d12] [&>svg]:h-auto [&>svg]:w-full [&>svg]:max-w-60","dangerouslySetInnerHTML":{"__html":"$f"}}],"$L10"]}]
+6:["$","div",null,{"className":"mb-10 mt-24 border-b border-line pb-4","children":[["$","p",null,{"className":"hud-label text-accent","children":"Архів першої ітерації — форма відхилена, стиль лишається"}],["$","h2",null,{"className":"display-title mt-3 text-3xl md:text-4xl","children":"Лого бренду: пляшка"}]]}]
+11:T1b83,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 320" role="img" aria-label="BloodyMilk — vintage milk bottle logo">
+  <defs>
+    <radialGradient id="vmb_glow" cx="0.5" cy="0.42" r="0.62">
+      <stop offset="0" stop-color="#33424a" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#33424a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="vmb_body" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a8a496"/>
+      <stop offset="0.1" stop-color="#d5d2c4"/>
+      <stop offset="0.3" stop-color="#fffef6"/>
+      <stop offset="0.5" stop-color="#f3f1e6"/>
+      <stop offset="0.7" stop-color="#dcd8ca"/>
+      <stop offset="0.88" stop-color="#b8b4a6"/>
+      <stop offset="1" stop-color="#93907f"/>
+    </linearGradient>
+    <linearGradient id="vmb_face" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ece8da"/>
+      <stop offset="1" stop-color="#c9c5b5"/>
+    </linearGradient>
+    <linearGradient id="vmb_blood" gradientUnits="userSpaceOnUse" x1="0" y1="26" x2="0" y2="256">
+      <stop offset="0" stop-color="#ff5a63"/>
+      <stop offset="0.16" stop-color="#d91f33"/>
+      <stop offset="0.5" stop-color="#a60a1c"/>
+      <stop offset="1" stop-color="#70030f"/>
+    </linearGradient>
+    <radialGradient id="vmb_pool" cx="0.42" cy="0.35" r="0.75">
+      <stop offset="0" stop-color="#ff6b70"/>
+      <stop offset="0.55" stop-color="#c11226"/>
+      <stop offset="1" stop-color="#7c0413"/>
+    </radialGradient>
+    <filter id="vmb_blur3" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+    <filter id="vmb_blur1" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="1.1"/></filter>
+    <path id="vmb_B" fill-rule="evenodd" d="M0 0 L19 0 C28 0 34 4.5 34 12 C34 17 31.5 20.5 27 22 C32.5 23.2 36 26.8 36 32 C36 39.5 30 44 20 44 L0 44 Z M10 8 L18 8 C22.4 8 24.6 9.6 24.6 13 C24.6 16.4 22.4 18 18 18 L10 18 Z M10 26 L19 26 C23.6 26 26.2 27.8 26.2 31.6 C26.2 35.4 23.6 37 19 37 L10 37 Z"/>
+    <path id="vmb_M" d="M0 0 L12.5 0 L22 23 L31.5 0 L44 0 L44 44 L34.5 44 L34.5 17.5 L26.5 36.5 L17.5 36.5 L9.5 17.5 L9.5 44 L0 44 Z"/>
+  </defs>
+
+  <rect width="240" height="320" fill="#0d0d12"/>
+  <rect width="240" height="320" fill="url(#vmb_glow)"/>
+
+  <ellipse cx="120" cy="291" rx="63" ry="9" fill="#000000" opacity="0.55" filter="url(#vmb_blur3)"/>
+
+  <path d="M94 50 L94 68 C94 84 74 96 68 118 C66.5 124 66 130 66 138 L66 260 C66 276 74 282 88 282 L152 282 C166 282 174 276 174 260 L174 138 C174 130 173.5 124 172 118 C166 96 146 84 146 68 L146 50 Z" fill="url(#vmb_body)"/>
+
+  <rect x="86" y="118" width="14" height="152" rx="7" fill="#ffffff" opacity="0.5" filter="url(#vmb_blur1)"/>
+  <rect x="157" y="126" width="6" height="136" rx="3" fill="#ffffff" opacity="0.28" filter="url(#vmb_blur1)"/>
+  <ellipse cx="103" cy="100" rx="18" ry="11" fill="#ffffff" opacity="0.35" filter="url(#vmb_blur3)"/>
+
+  <path d="M97 64 Q120 69.5 143 64" fill="none" stroke="#9a9686" stroke-width="1.6" opacity="0.5"/>
+  <path d="M97 66.6 Q120 72 143 66.6" fill="none" stroke="#fffef4" stroke-width="1.1" opacity="0.7"/>
+
+  <path d="M88 34 L88 48 C88 55 102 59.5 120 59.5 C138 59.5 152 55 152 48 L152 34 Z" fill="url(#vmb_body)"/>
+  <path d="M90 52.5 Q120 61.5 150 52.5" fill="none" stroke="#8b8779" stroke-width="1.3" opacity="0.5"/>
+  <ellipse cx="120" cy="34" rx="32" ry="8.5" fill="#f6f4e9"/>
+  <ellipse cx="120" cy="34" rx="26.5" ry="6.6" fill="#2b2320"/>
+
+  <path d="M78 150 Q120 156 162 150" fill="none" stroke="#9a9686" stroke-width="1.5" opacity="0.55"/>
+  <path d="M78 152.6 Q120 158.6 162 152.6" fill="none" stroke="#fffef4" stroke-width="1" opacity="0.7"/>
+  <path d="M82 222 Q120 228 158 222" fill="none" stroke="#9a9686" stroke-width="1.5" opacity="0.55"/>
+  <path d="M82 224.6 Q120 230.6 158 224.6" fill="none" stroke="#fffef4" stroke-width="1" opacity="0.7"/>
+
+  <g transform="translate(80,170) scale(0.85)">
+    <g transform="translate(1.8,2)" fill="#8a8677" opacity="0.9">
+      <use href="#vmb_B"/><use href="#vmb_M" x="50"/>
+    </g>
+    <g transform="translate(-1.5,-1.7)" fill="#fffef6" opacity="0.95">
+      <use href="#vmb_B"/><use href="#vmb_M" x="50"/>
+    </g>
+    <g fill="url(#vmb_face)">
+      <use href="#vmb_B"/><use href="#vmb_M" x="50"/>
+    </g>
+  </g>
+
+  <path d="M94.5 54 C94.5 76 72 92 68.6 128 L68.6 256" fill="none" stroke="#d8f2f5" stroke-width="1.4" opacity="0.14"/>
+  <path d="M145.5 54 C145.5 76 169 92 171.4 128 L171.4 256" fill="none" stroke="#d8f2f5" stroke-width="1.4" opacity="0.26"/>
+
+  <ellipse cx="120" cy="34.5" rx="25.5" ry="6" fill="url(#vmb_pool)"/>
+  <ellipse cx="112" cy="33" rx="8.5" ry="1.9" fill="#ffffff" opacity="0.3"/>
+
+  <path d="M89 34 A31 8 0 0 0 151 34 L151 38 C151 44 149.5 48 146 50 C143 51.5 140.5 50 140 46 C139.5 42 135.5 42 133.5 45 C131.5 48 130.5 50 126.5 51.5 C123 52.8 121.5 48 121 44 C120.5 39.5 115.5 39.5 114 43.5 C112.5 47.5 112 53 108 54.2 C104 55.4 102.5 49 102 45 C101.5 43 97 43 95.5 44.5 C94 48 92 47 90.5 42 C89.7 39.3 89 36.5 89 34 Z" fill="url(#vmb_blood)"/>
+
+  <path d="M92 42 C92 60 90 74 84 91 C78 107 71 118 69 134 L69 216 C69 224 78 224 78 216 L78 150 C78 134 82 118 88 104 C94 90 99 64 99 42 Z" fill="url(#vmb_blood)"/>
+  <path d="M134 44 C135 58 139 74 145 89 C150 101 153.5 112 153.5 126 L153.5 152 C153.5 160.5 161 160.5 161 152 L161 128 C161 114 158 101 152 89 C146 77 142 58 141 44 Z" fill="url(#vmb_blood)"/>
+  <path d="M113 42 C113 58 111.5 72 111 86 C110.6 98 111 110 112 120 C112.6 127.5 120.4 127.5 121 120 C122 110 122.4 98 121.6 88 C120.6 72 121.4 58 122 42 Z" fill="url(#vmb_blood)"/>
+
+  <path d="M73.5 234 C76.8 239.5 78.8 243 78.8 246.2 C78.8 249.4 76.4 251.4 73.5 251.4 C70.6 251.4 68.2 249.4 68.2 246.2 C68.2 243 70.2 239.5 73.5 234 Z" fill="url(#vmb_blood)"/>
+  <path d="M164 166 C166.2 170 167.5 172.6 167.5 175 C167.5 177.4 165.9 179 164 179 C162.1 179 160.5 177.4 160.5 175 C160.5 172.6 161.8 170 164 166 Z" fill="url(#vmb_blood)"/>
+
+  <path d="M97.5 54 C96 72 92.5 88 87 101 C80.5 116 77.6 132 77.4 150" fill="none" stroke="#66030f" stroke-width="1.3" opacity="0.4" stroke-linecap="round"/>
+  <path d="M151.5 93 C156.5 104 159.4 114 159.6 128 L159.7 150" fill="none" stroke="#66030f" stroke-width="1.2" opacity="0.4" stroke-linecap="round"/>
+  <path d="M120.4 52 C119.8 68 120.2 84 120.2 98" fill="none" stroke="#66030f" stroke-width="1" opacity="0.35" stroke-linecap="round"/>
+
+  <path d="M95 52 C93.5 68 90 82 85 95" fill="none" stroke="#ffffff" stroke-width="1.6" opacity="0.3" stroke-linecap="round"/>
+  <path d="M137.5 52 C139 64 142.5 76 147.5 89" fill="none" stroke="#ffffff" stroke-width="1.4" opacity="0.3" stroke-linecap="round"/>
+  <path d="M116.5 48 C115.8 62 115 76 114.6 90" fill="none" stroke="#ffffff" stroke-width="1.1" opacity="0.28" stroke-linecap="round"/>
+  <path d="M71.5 240 C70.8 242 70.6 244 71 246" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.3" stroke-linecap="round"/>
+
+  <path d="M74 272 Q120 281 166 272" fill="none" stroke="#fffef4" stroke-width="1.2" opacity="0.35"/>
+</svg>7:["$","div",null,{"className":"grid gap-5 sm:grid-cols-2 lg:grid-cols-3","children":[["$","article","Vintage Dairy — «Стара молочарня»",{"className":"glass-panel overflow-hidden","children":[["$","div",null,{"className":"flex justify-center bg-[#0d0d12] [&>svg]:h-auto [&>svg]:w-full [&>svg]:max-w-60","dangerouslySetInnerHTML":{"__html":"$11"}}],"$L12"]}],"$L13","$L14","$L15","$L16"]}]
+8:["$","div",null,{"className":"mb-10 mt-24 border-b border-line pb-4","children":[["$","p",null,{"className":"hud-label text-accent","children":"AlphaDrums — product mark · currentColor + 1 accent"}],["$","h2",null,{"className":"display-title mt-3 text-3xl md:text-4xl","children":"Знак AlphaDrums"}]]}]
+9:["$","div",null,{"className":"grid gap-5 sm:grid-cols-2","children":[[["$","article","AD Monogram — Blood Core",{"className":"glass-panel p-7","children":[["$","div",null,{"className":"flex items-end gap-8 text-milk","children":[["$","span",null,{"className":"[&>svg]:size-40","dangerouslySetInnerHTML":{"__html":"<svg viewBox=\"0 0 96 96\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"AlphaDrums AD monogram\">\n  <path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M36 12H70L84 26V70L70 84H44V58H33L22 84H6L36 12ZM44 31V48H37L44 31ZM65 34L73 48L65 62L57 48L65 34Z\"/>\n  <path fill=\"#FF4D5E\" d=\"M65 38L71 48L65 58L59 48L65 38Z\"/>\n</svg>"}}],["$","span",null,{"className":"[&>svg]:size-12","dangerouslySetInnerHTML":{"__html":"<svg viewBox=\"0 0 96 96\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"AlphaDrums AD monogram\">\n  <path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M36 12H70L84 26V70L70 84H44V58H33L22 84H6L36 12ZM44 31V48H37L44 31ZM65 34L73 48L65 62L57 48L65 34Z\"/>\n  <path fill=\"#FF4D5E\" d=\"M65 38L71 48L65 58L59 48L65 38Z\"/>\n</svg>"}}],["$","span",null,{"className":"[&>svg]:size-6","dangerouslySetInnerHTML":{"__html":"<svg viewBox=\"0 0 96 96\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"AlphaDrums AD monogram\">\n  <path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M36 12H70L84 26V70L70 84H44V58H33L22 84H6L36 12ZM44 31V48H37L44 31ZM65 34L73 48L65 62L57 48L65 34Z\"/>\n  <path fill=\"#FF4D5E\" d=\"M65 38L71 48L65 58L59 48L65 38Z\"/>\n</svg>"}}]]}],["$","p",null,{"className":"hud-label mt-5 text-accent","children":["Знак ",1]}],["$","h3",null,{"className":"mt-2 font-display text-lg font-extrabold uppercase tracking-[0.02em]","children":"AD Monogram — Blood Core"}],["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-ink-lo","children":"Кастомна лігатура A+D в одну брутальну плиту: діагональна нога A зі спільним стемом переходить у D з рубаними 45°-фасками — силует у вазі металкор-мерчу, без жодного заокруглення. Негативні прорізи несуть зміст: гострий клин-контрформа читає «A», а контрформа D — це ромб-«піка», у центрі якого сидить червоне ядро #FF4D5E (крапля крові в молоці — місток до BloodyMilk). Це ядро — очевидний «центр удару»: воно ізольоване негативним зазором, тож ідеально пульсує/світиться за velocity незалежно від основної геометрії (currentColor), і знак лишається читабельним від 24px до 200px+."}]]}],["$","article","Shockwave Burst — «Ударна хвиля»",{"className":"glass-panel p-7","children":[["$","div",null,{"className":"flex items-end gap-8 text-milk","children":[["$","span",null,{"className":"[&>svg]:size-40","dangerouslySetInnerHTML":{"__html":"<svg viewBox=\"0 0 96 96\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\">\n  <g stroke=\"currentColor\" stroke-linecap=\"butt\">\n    <g stroke-width=\"6.5\">\n      <path d=\"M54.1 57 A14 14 0 0 1 29.9 57\"/>\n      <path d=\"M28.2 47.6 A14 14 0 0 1 54.1 43\"/>\n    </g>\n    <g stroke-width=\"5\">\n      <path d=\"M55.8 69.7 A24 24 0 0 1 19.5 58.2\"/>\n      <path d=\"M18.8 43.8 A24 24 0 0 1 46.2 26.4\"/>\n      <path d=\"M64.6 58.2 A24 24 0 0 1 60.4 65.4\"/>\n    </g>\n    <g stroke-width=\"4\">\n      <path d=\"M36.1 83.5 A34 34 0 0 1 8.5 55.9\"/>\n      <path d=\"M14.2 30.5 A34 34 0 0 1 45 16.1\"/>\n      <path d=\"M68 71.9 A34 34 0 0 1 53.6 82\"/>\n    </g>\n  </g>\n  <g fill=\"currentColor\">\n    <polygon points=\"79.7,23.6 66.4,37.8 61.8,31.2\"/>\n    <polygon points=\"85.3,42.3 70.1,48.1 69.1,42.2\"/>\n    <polygon points=\"63,13.6 58.7,26.2 54.3,23.7\"/>\n  </g>\n  <circle cx=\"42\" cy=\"50\" r=\"8\" fill=\"#FF4D5E\"/>\n</svg>"}}],"$L17","$L18"]}],"$L19","$L1a","$L1b"]}],"$L1c","$L1d"],"$L1e"]}]
+a:["$","div",null,{"className":"mb-10 mt-24 border-b border-line pb-4","children":[["$","p",null,{"className":"hud-label text-accent","children":"Site direction — 3 options · tokens retheme via --accent"}],["$","h2",null,{"className":"display-title mt-3 text-3xl md:text-4xl","children":"Дизайн-напрями сайту"}]]}]
+b:["$","div",null,{"className":"space-y-10","children":[["$","article",null,{"className":"glass-panel overflow-hidden","children":[["$","div",null,{"className":"border-b border-line bg-bg-1 p-10","children":[["$","p",null,{"className":"hud-label text-accent","children":"A · Дзеркало плагіна — базлайн, вже побудовано (S1)"}],["$","p",null,{"className":"display-title mt-4 text-4xl md:text-5xl","children":["Hit hard.",["$","br",null,{}],"Hide nothing."]}],["$","div",null,{"className":"mt-6 flex flex-wrap items-center gap-4","children":[["$","a",null,{"href":"#a","className":"inline-flex items-center justify-center rounded-full font-display font-bold uppercase tracking-btn transition-colors duration-200 bg-accent text-accent-ink glow-accent hover:bg-accent-hi hover:glow-accent-hi h-12 px-7 text-[13px]","children":"Get AlphaDrums"}],["$","span",null,{"className":"chip border border-accent/35 bg-accent/8 text-ink","children":"snare · v 112 · L6/6 · RR4/17"}]]}]]}],["$","div",null,{"className":"flex gap-2 px-7 pb-7","children":[["$","span","#0a1210",{"className":"h-8 w-14 rounded-el border border-line","style":{"background":"#0a1210"},"title":"#0a1210"}],["$","span","#1b2c27",{"className":"h-8 w-14 rounded-el border border-line","style":{"background":"#1b2c27"},"title":"#1b2c27"}],["$","span","#42c4ce",{"className":"h-8 w-14 rounded-el border border-line","style":{"background":"#42c4ce"},"title":"#42c4ce"}],["$","span","#e8f4f5",{"className":"h-8 w-14 rounded-el border border-line","style":{"background":"#e8f4f5"},"title":"#e8f4f5"}],["$","span","#ff4d5e",{"className":"h-8 w-14 rounded-el border border-line","style":{"background":"#ff4d5e"},"title":"#ff4d5e"}]]}],["$","div",null,{"className":"grid gap-6 p-7 md:grid-cols-3","children":[["$","div",null,{"children":[["$","p",null,{"className":"hud-label text-accent","children":"Плюси"}],["$","ul",null,{"className":"mt-3 space-y-2 text-sm leading-relaxed text-ink-lo","children":[["$","li","Сайт і плагін — одне ціле: скріншоти UI виглядають «рідними»",{"children":"Сайт і плагін — одне ціле: скріншоти UI виглядають «рідними»"}],["$","li","Вже реалізовано: нуль додаткової роботи, токени готові",{"children":"Вже реалізовано: нуль додаткової роботи, токени готові"}],["$","li","Категорійно доречно: аудиторія звикла до темних продуктових сайтів",{"children":"Категорійно доречно: аудиторія звикла до темних продуктових сайтів"}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"hud-label text-solo","children":"Ризики"}],["$","ul",null,{"className":"mt-3 space-y-2 text-sm leading-relaxed text-ink-lo","children":[["$","li","Привʼязує бренд до естетики першого продукту",{"children":"Привʼязує бренд до естетики першого продукту"}],["$","li","Темний сайт + неон — найбільш очікуване рішення категорії",{"children":"Темний сайт + неон — найбільш очікуване рішення категорії"}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"hud-label text-milk","children":"Коли обирати"}],["$","p",null,{"className":"mt-3 text-sm leading-relaxed text-ink-lo","children":"Якщо пріоритет — швидкість запуску і максимальна злитість з продуктом; бренд-шар лишається тонким (футер/легальні сторінки)."}]]}]]}]]}],["$","article",null,{"className":"glass-panel overflow-hidden","children":[["$","div",null,{"className":"border-b border-line p-10","style":{"background":"#f6f1e8","--accent":"#c40016","--accent-hi":"#ff4d5e","--accent-ink":"#fff6ef"},"children":[["$","p",null,{"className":"hud-label","style":{"color":"#c40016"},"children":"B · Milk & Blood — бренд-перший · єдиний світлий сайт категорії"}],["$","p",null,{"className":"display-title mt-4 text-4xl text-[#161310] md:text-5xl","children":["Hit hard.",["$","br",null,{}],"Hide nothing."]}],["$","svg",null,{"viewBox":"0 0 400 14","className":"mt-5 h-3.5 w-full max-w-md","preserveAspectRatio":"none","aria-hidden":true,"children":["$","path",null,{"d":"M0 3 H400 V5 H210 C208 5 207 12 204.5 12 C202 12 201.5 5 199 5 H120 C118 5 117.5 9 115.5 9 C113.5 9 113 5 111 5 H0 Z","fill":"#c40016"}]}],["$","div",null,{"className":"mt-6 flex flex-wrap items-center gap-4","children":["$L1f","$L20"]}]]}],"$L21","$L22"]}],"$L23"]}]
+c:["$","$L24",null,{"children":["$","$25",null,{"name":"Next.MetadataOutlet","children":"$@26"}]}]
+e:["$","div",null,{"className":"p-6","children":[["$","p",null,{"className":"hud-label text-accent","children":["Коробка ",2]}],["$","h3",null,{"className":"mt-2 font-display text-lg font-extrabold uppercase tracking-[0.02em]","children":"Slasher Carton — залитий пакет"}],["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-ink-lo","children":"Той самий gable-пакет, але кров захопила весь верх: гребінь і скати повністю червоні, густі глянцеві потоки йдуть по фронту і боці, крапля відривається. Літери частково перекриті потоками — драма слешера в упаковці з молочної полиці."}]]}]
+10:["$","div",null,{"className":"p-6","children":[["$","p",null,{"className":"hud-label text-accent","children":["Коробка ",3]}],["$","h3",null,{"className":"mt-2 font-display text-lg font-extrabold uppercase tracking-[0.02em]","children":"Tetra Cube — мінімал-брік"}],["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-ink-lo","children":"Квадратний брік без гребеня: чисті площини, B на фронті і M на боці як великий типографський друк, один тонкий патьок з верхньої грані та дрібний mono-рядок — преміальний мінімалізм, найближчий до «пакшота»."}]]}]
+12:["$","div",null,{"className":"p-6","children":[["$","p",null,{"className":"hud-label text-accent","children":["Пляшка ",1]}],["$","h3",null,{"className":"mt-2 font-display text-lg font-extrabold uppercase tracking-[0.02em]","children":"Vintage Dairy — «Стара молочарня»"}],["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-ink-lo","children":"Класична old-school молочна пляшка з широкою шийкою та товстим вінцем, тепле кремове «молочне скло» з циліндричним градієнтом, скляними бліками й ембосованими кільцями, як на старих фермерських пляшках. Літери B M виконані векторними шляхами з тришаровим ембос-ефектом (тінь/світло/грань) — ніби відлиті у склі. Кров переливається через вінця нерівними лобами й стікає трьома довгими глянцевими патьоками з краплями, що відриваються; єдиний userSpaceOnUse-градієнт крові робить усі патьоки безшовними. Настрій — фермерська ностальгія, зіпсована жахом."}]]}]
+27:T1262,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 320" width="240" height="320" role="img" aria-label="BloodyMilk logo — minimal premium milk bottle with one blood drip">
+  <defs>
+    <linearGradient id="mp-body" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b6bec7"/>
+      <stop offset="0.12" stop-color="#dfe4e8"/>
+      <stop offset="0.30" stop-color="#fbfcfd"/>
+      <stop offset="0.52" stop-color="#ffffff"/>
+      <stop offset="0.74" stop-color="#eef1f4"/>
+      <stop offset="0.90" stop-color="#cfd6dc"/>
+      <stop offset="1" stop-color="#aeb7c0"/>
+    </linearGradient>
+    <linearGradient id="mp-lip" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#aab3bc"/>
+      <stop offset="0.28" stop-color="#f4f6f8"/>
+      <stop offset="0.55" stop-color="#fdfdfe"/>
+      <stop offset="0.82" stop-color="#dde2e6"/>
+      <stop offset="1" stop-color="#9aa4ad"/>
+    </linearGradient>
+    <linearGradient id="mp-blood" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c40016"/>
+      <stop offset="0.45" stop-color="#9c000f"/>
+      <stop offset="1" stop-color="#70000c"/>
+    </linearGradient>
+    <filter id="mp-blur2" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+    <filter id="mp-blur4" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <clipPath id="mp-clip">
+      <path d="M103,66 H137 V100 C137,116 154,120 154,140 V270 Q154,284 140,284 H100 Q86,284 86,270 V140 C86,120 103,116 103,100 Z"/>
+    </clipPath>
+  </defs>
+
+  <rect width="240" height="320" fill="#0d0d12"/>
+
+  <ellipse cx="120" cy="291" rx="54" ry="9" fill="#000000" opacity="0.55" filter="url(#mp-blur4)"/>
+
+  <path d="M103,66 H137 V100 C137,116 154,120 154,140 V270 Q154,284 140,284 H100 Q86,284 86,270 V140 C86,120 103,116 103,100 Z" fill="url(#mp-body)"/>
+
+  <g clip-path="url(#mp-clip)">
+    <rect x="140" y="118" width="13" height="160" rx="6.5" fill="#97a1ab" opacity="0.5" filter="url(#mp-blur4)"/>
+    <rect x="86.5" y="130" width="7" height="146" rx="3.5" fill="#9aa4ad" opacity="0.35" filter="url(#mp-blur2)"/>
+    <rect x="96" y="130" width="11" height="138" rx="5.5" fill="#ffffff" opacity="0.85" filter="url(#mp-blur2)"/>
+    <rect x="108" y="70" width="5" height="27" rx="2.5" fill="#ffffff" opacity="0.8" filter="url(#mp-blur2)"/>
+    <rect x="103" y="67" width="34" height="6" fill="#8f99a2" opacity="0.35" filter="url(#mp-blur2)"/>
+    <rect x="84" y="266" width="72" height="20" fill="#a8b1ba" opacity="0.45" filter="url(#mp-blur2)"/>
+  </g>
+
+  <rect x="99" y="54" width="42" height="13" rx="6" fill="url(#mp-lip)"/>
+  <rect x="103" y="55.6" width="24" height="2.6" rx="1.3" fill="#ffffff" opacity="0.75"/>
+
+  <g fill="#1a1e24" opacity="0.88" fill-rule="evenodd">
+    <g transform="translate(102.5,222) scale(0.75)">
+      <path d="M0,0 H8.2 C12.4,0 14.6,1.9 14.6,5.1 C14.6,7.3 13.5,8.9 11.6,9.6 C14,10.4 15.3,12.1 15.3,14.6 C15.3,18 12.9,20 8.5,20 H0 Z M3.3,3 H7.9 C9.9,3 10.9,3.9 10.9,5.5 C10.9,7.1 9.9,8 7.9,8 H3.3 Z M3.3,11.1 H8.2 C10.4,11.1 11.6,12.1 11.6,13.9 C11.6,15.8 10.4,16.9 8.2,16.9 H3.3 Z"/>
+      <path d="M28.3,20 V0 H32.8 L37.4,10.6 L42,0 H46.5 V20 H43.1 V7 L39.3,15.4 H35.5 L31.7,7 V20 Z"/>
+    </g>
+  </g>
+
+  <g fill="url(#mp-blood)">
+    <path d="M125,63.5 C124.4,74 125.6,84 125,94 C124.6,104 128,112 130,122 C132,132 132.6,146 133,160 C133.3,171 132.6,178 133,184 C133,190 135,193 137.4,193 C139.8,193 141.8,190.6 141.6,186.6 C141.4,180 139.6,172 139.2,162 C138.8,150 138.4,136 136,124 C134,114 132.4,106 132,96 C131.6,86 132.8,74 132.2,63.8 Z"/>
+    <path d="M99,61 C99,55.5 102,54 106,54 H134 C138,54 141,55.5 141,61 V61.5 C141,64 139,64.8 137.2,64.2 C135.4,63.6 134.6,66.8 132.6,66.4 C130.6,66 130.6,63.2 128.4,63.4 C126.2,63.6 126.4,66.2 124.2,66 C122,65.8 121.8,63.2 119.6,63.4 C117.4,63.6 117,65.4 115,65.2 C113,65 112.8,63 110.8,63.2 C108.8,63.4 108.6,64.6 106.8,64.4 C105,64.2 104.6,62.8 103,63 C101.4,63.2 99,63.4 99,61 Z"/>
+  </g>
+  <path d="M104,57.5 Q120,55.4 133,57" fill="none" stroke="#ff8b93" stroke-width="1.6" stroke-linecap="round" opacity="0.7"/>
+  <ellipse cx="110" cy="57.6" rx="3" ry="1.1" fill="#ffb3b8" opacity="0.8"/>
+  <path d="M127.2,68 C126.7,78 127.7,88 127.3,98 C127.1,106 129.2,113 130.8,121 C132.2,128 132.8,138 133.1,148" fill="none" stroke="#ff4d5e" stroke-width="1.4" stroke-linecap="round" opacity="0.75"/>
+  <ellipse cx="136.2" cy="185.5" rx="1.6" ry="2.6" fill="#ff8f86" opacity="0.85"/>
+
+  <text x="122" y="310" text-anchor="middle" font-family="Archivo, 'Arial Black', Arial, sans-serif" font-size="9" font-weight="600" letter-spacing="4.5" fill="#7e848c">BLOODYMILK</text>
+</svg>13:["$","article","Nordic Cut — minimal-premium",{"className":"glass-panel overflow-hidden","children":[["$","div",null,{"className":"flex justify-center bg-[#0d0d12] [&>svg]:h-auto [&>svg]:w-full [&>svg]:max-w-60","dangerouslySetInnerHTML":{"__html":"$27"}}],"$L28"]}]
+29:T189f,<svg viewBox="0 0 240 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="BloodyMilk logo — blood-drenched milk bottle with scratched BM letters">
+  <defs>
+    <radialGradient id="fh-bg" cx="0.5" cy="0.35" r="0.9">
+      <stop offset="0" stop-color="#181017"/>
+      <stop offset="1" stop-color="#0d0d12"/>
+    </radialGradient>
+    <radialGradient id="fh-glow" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#ff4d5e" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#ff4d5e" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fh-glass" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7e9297"/>
+      <stop offset="0.1" stop-color="#d9e4e6"/>
+      <stop offset="0.3" stop-color="#f4f8f9"/>
+      <stop offset="0.6" stop-color="#e7eff0"/>
+      <stop offset="0.9" stop-color="#c2d0d4"/>
+      <stop offset="1" stop-color="#86999e"/>
+    </linearGradient>
+    <linearGradient id="fh-milk" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#cfd9dc"/>
+      <stop offset="0.18" stop-color="#ffffff"/>
+      <stop offset="0.55" stop-color="#f6fafa"/>
+      <stop offset="0.85" stop-color="#dbe4e6"/>
+      <stop offset="1" stop-color="#c4d1d4"/>
+    </linearGradient>
+    <radialGradient id="fh-milktop" cx="0.5" cy="0.45" r="0.75">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#dfe7e9"/>
+    </radialGradient>
+    <linearGradient id="fh-blood" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d5142b"/>
+      <stop offset="0.3" stop-color="#a80a1c"/>
+      <stop offset="0.7" stop-color="#7c0412"/>
+      <stop offset="1" stop-color="#560310"/>
+    </linearGradient>
+    <filter id="fh-soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+    <clipPath id="fh-clip">
+      <path d="M88 46 L152 46 Q156 46 156 52 L156 58 Q156 62 152 62 L149 64 L149 92 Q149 106 160 116 Q182 134 182 158 L182 272 Q182 290 164 292 L76 292 Q58 290 58 272 L58 158 Q58 134 80 116 Q91 106 91 92 L91 64 L88 62 Q84 62 84 58 L84 52 Q84 46 88 46 Z"/>
+    </clipPath>
+  </defs>
+
+  <rect width="240" height="320" fill="url(#fh-bg)"/>
+  <ellipse cx="120" cy="130" rx="112" ry="135" fill="url(#fh-glow)"/>
+
+  <ellipse cx="120" cy="300" rx="72" ry="9" fill="#000000" opacity="0.6" filter="url(#fh-soft)"/>
+  <ellipse cx="115" cy="301" rx="14" ry="3.5" fill="#6b030f" opacity="0.9"/>
+
+  <path d="M88 46 L152 46 Q156 46 156 52 L156 58 Q156 62 152 62 L149 64 L149 92 Q149 106 160 116 Q182 134 182 158 L182 272 Q182 290 164 292 L76 292 Q58 290 58 272 L58 158 Q58 134 80 116 Q91 106 91 92 L91 64 L88 62 Q84 62 84 58 L84 52 Q84 46 88 46 Z"
+        fill="url(#fh-glass)" stroke="#b9cdd1" stroke-width="1" stroke-opacity="0.6"/>
+
+  <g clip-path="url(#fh-clip)">
+    <rect x="58" y="110" width="10" height="182" fill="#718589" opacity="0.35"/>
+    <rect x="172" y="110" width="10" height="182" fill="#718589" opacity="0.4"/>
+
+    <path d="M66 146 Q63 154 63 164 L63 272 Q63 288 80 289 L160 289 Q177 288 177 272 L177 164 Q177 154 174 146 Q120 162 66 146 Z" fill="url(#fh-milk)"/>
+    <ellipse cx="120" cy="146" rx="54" ry="8" fill="url(#fh-milktop)"/>
+
+    <path d="M60 268 Q120 280 180 268 L180 272 Q180 289 163 291 L77 291 Q60 289 60 272 Z" fill="#9db0b5" opacity="0.55"/>
+    <ellipse cx="120" cy="284" rx="50" ry="6" fill="#ffffff" opacity="0.5"/>
+    <ellipse cx="120" cy="289" rx="58" ry="4" fill="#ffffff" opacity="0.25"/>
+
+    <rect x="90" y="64" width="14" height="222" rx="7" fill="#ffffff" opacity="0.5"/>
+    <rect x="152" y="120" width="7" height="160" rx="3.5" fill="#ffffff" opacity="0.22"/>
+
+    <g fill="#6f0512" stroke="#45030a" stroke-width="1" fill-rule="evenodd">
+      <path d="M65 178 L91 176 Q107 177 108 191 Q109 202 99 207 Q112 211 112 223 Q112 237 95 238 L66 237 L68 226 L65 214 L68 199 L64 187 Z M77 187 L91 186 Q97 189 97 193 Q97 198 90 198 L78 197 Z M77 209 L93 210 Q100 213 100 219 Q100 226 92 226 L76 226 Z"/>
+      <path d="M124 238 L123 210 L125 194 L122 178 L136 175 L148 205 L161 176 L174 179 L172 196 L174 214 L173 238 L161 236 L162 203 L152 226 L143 225 L135 202 L136 237 Z"/>
+    </g>
+    <path d="M68 237 L68 252 Q68 257 65 257 Q62 256 62 252 L63 237 Z" fill="#6f0512"/>
+    <path d="M165 238 L165 259 Q165 264 161 263 Q158 262 159 258 L160 237 Z" fill="#6f0512"/>
+    <g stroke="#eef3f4" stroke-width="1.5" opacity="0.8" stroke-linecap="round">
+      <line x1="61" y1="196" x2="110" y2="188"/>
+      <line x1="63" y1="224" x2="109" y2="230"/>
+      <line x1="120" y1="190" x2="176" y2="198"/>
+      <line x1="124" y1="228" x2="172" y2="218"/>
+    </g>
+  </g>
+
+  <g>
+    <path d="M84 42 Q84 30 98 29 L142 29 Q156 30 156 42 L156 55 Q161 61 155 65 L151 90 Q151 104 163 114 Q184 130 184 150 L184 176 Q184 186 177 183 Q171 180 171 170 L171 148 Q166 132 161 141 L161 158 Q161 168 154 166 Q148 164 148 154 L148 145 Q142 128 136 139 Q130 146 126 138 L125 246 Q126 261 115 261 Q104 261 106 246 L108 140 Q101 126 95 136 L94 190 Q94 198 89 196 Q85 194 85 187 L86 138 Q80 126 74 136 L74 168 Q74 176 67 174 Q61 172 61 164 L62 146 Q59 136 57 144 L56 152 Q56 128 78 111 Q89 102 89 90 L89 65 Q83 63 84 55 Z"
+          fill="url(#fh-blood)" stroke="#40030b" stroke-width="1"/>
+    <path d="M140 138 L141 196 Q141 202 137.5 201 Q135 200 136 196 L136 138 Z" fill="#8c0715" opacity="0.95"/>
+
+    <path d="M96 38 Q120 29 144 38 Q142 40 120 34 Q98 40 96 38 Z" fill="#ff8a94" opacity="0.5"/>
+    <rect x="143" y="66" width="4" height="30" rx="2" fill="#ff7583" opacity="0.45"/>
+    <path d="M160 116 Q176 128 179 144 L174 146 Q170 130 156 120 Z" fill="#ff8a94" opacity="0.35"/>
+    <rect x="114" y="150" width="3.5" height="70" rx="1.75" fill="#ff96a1" opacity="0.5"/>
+    <rect x="65" y="146" width="3" height="20" rx="1.5" fill="#ff96a1" opacity="0.45"/>
+    <rect x="153" y="146" width="3" height="14" rx="1.5" fill="#ff96a1" opacity="0.45"/>
+    <ellipse cx="104" cy="34" rx="5" ry="2" fill="#ffffff" opacity="0.5"/>
+    <ellipse cx="137" cy="35" rx="3" ry="1.5" fill="#ffffff" opacity="0.35"/>
+
+    <path d="M115 272 Q121 281 121 288 Q121 295 115 295 Q109 295 109 288 Q109 281 115 272 Z" fill="url(#fh-blood)" stroke="#40030b" stroke-width="0.8"/>
+    <ellipse cx="113" cy="286" rx="1.5" ry="3" fill="#ff9aa4" opacity="0.7"/>
+  </g>
+</svg>14:["$","article","Slasher Flood",{"className":"glass-panel overflow-hidden","children":[["$","div",null,{"className":"flex justify-center bg-[#0d0d12] [&>svg]:h-auto [&>svg]:w-full [&>svg]:max-w-60","dangerouslySetInnerHTML":{"__html":"$29"}}],"$L2a"]}]
+2b:T2439,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 320" role="img" aria-labelledby="bmemb-t">
+  <title id="bmemb-t">Bloody Milk Audio — dairy label emblem</title>
+  <defs>
+    <radialGradient id="bmemb-halo" cx="0.5" cy="0.48" r="0.55">
+      <stop offset="0" stop-color="#55232c" stop-opacity="0.5"/>
+      <stop offset="0.7" stop-color="#3a1720" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#0d0d12" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bmemb-badgeBg" cx="0.5" cy="0.42" r="0.78">
+      <stop offset="0" stop-color="#2b2127"/>
+      <stop offset="0.55" stop-color="#171119"/>
+      <stop offset="1" stop-color="#0c080d"/>
+    </radialGradient>
+    <linearGradient id="bmemb-bottle" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b3ac9e"/>
+      <stop offset="0.13" stop-color="#e7e2d6"/>
+      <stop offset="0.32" stop-color="#ffffff"/>
+      <stop offset="0.58" stop-color="#fdfcf7"/>
+      <stop offset="0.78" stop-color="#e6e1d4"/>
+      <stop offset="0.93" stop-color="#b2ab9c"/>
+      <stop offset="1" stop-color="#9f9889"/>
+    </linearGradient>
+    <linearGradient id="bmemb-bottleV" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.32"/>
+      <stop offset="0.2" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.8" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.22"/>
+    </linearGradient>
+    <linearGradient id="bmemb-lip" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c4bdaf"/>
+      <stop offset="0.3" stop-color="#ffffff"/>
+      <stop offset="0.7" stop-color="#f4f1e8"/>
+      <stop offset="1" stop-color="#b0a99a"/>
+    </linearGradient>
+    <linearGradient id="bmemb-blood" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff4d5e"/>
+      <stop offset="0.3" stop-color="#d5202f"/>
+      <stop offset="0.7" stop-color="#9c0a18"/>
+      <stop offset="1" stop-color="#6f0310"/>
+    </linearGradient>
+    <linearGradient id="bmemb-ribbon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a11220"/>
+      <stop offset="0.5" stop-color="#7d0817"/>
+      <stop offset="1" stop-color="#650414"/>
+    </linearGradient>
+    <linearGradient id="bmemb-ribbonDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#58040e"/>
+      <stop offset="1" stop-color="#38020a"/>
+    </linearGradient>
+    <filter id="bmemb-blur2" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+    <path id="bmemb-arcTop" d="M34 152 A86 114 0 0 1 206 152" fill="none"/>
+    <path id="bmemb-drop" d="M0 -6 C2.6 -2 3.4 0.8 3.4 2.6 C3.4 5 1.9 6.6 0 6.6 C-1.9 6.6 -3.4 5 -3.4 2.6 C-3.4 0.8 -2.6 -2 0 -6 Z"/>
+  </defs>
+
+  <!-- presentation background -->
+  <rect x="0" y="0" width="240" height="320" fill="#0d0d12"/>
+  <ellipse cx="120" cy="152" rx="118" ry="146" fill="url(#bmemb-halo)"/>
+
+  <!-- badge plate -->
+  <ellipse cx="120" cy="152" rx="101" ry="129" fill="url(#bmemb-badgeBg)"/>
+  <ellipse cx="120" cy="152" rx="76" ry="104" fill="none" stroke="#dcd2ba" stroke-width="1" stroke-dasharray="1 3" stroke-opacity="0.55"/>
+
+  <!-- bottle -->
+  <ellipse cx="120" cy="229" rx="40" ry="6.5" fill="#000000" opacity="0.5" filter="url(#bmemb-blur2)"/>
+  <path d="M106 84 L106 100 C106 112 86 118 86 134 L86 216 Q86 226 96 226 L144 226 Q154 226 154 216 L154 134 C154 118 134 112 134 100 L134 84 Z" fill="url(#bmemb-bottle)" stroke="#8f887b" stroke-opacity="0.6" stroke-width="0.8"/>
+  <path d="M106 84 L106 100 C106 112 86 118 86 134 L86 216 Q86 226 96 226 L144 226 Q154 226 154 216 L154 134 C154 118 134 112 134 100 L134 84 Z" fill="url(#bmemb-bottleV)"/>
+  <rect x="101" y="72" width="38" height="12" rx="4" fill="url(#bmemb-lip)" stroke="#8f887b" stroke-opacity="0.5" stroke-width="0.7"/>
+  <rect x="103" y="82" width="34" height="2" fill="#000000" opacity="0.13"/>
+  <rect x="93" y="134" width="8" height="82" rx="4" fill="#ffffff" opacity="0.5" filter="url(#bmemb-blur2)"/>
+  <rect x="146.5" y="138" width="3" height="70" rx="1.5" fill="#ffffff" opacity="0.28" filter="url(#bmemb-blur2)"/>
+  <rect x="112" y="88" width="4" height="20" rx="2" fill="#ffffff" opacity="0.45" filter="url(#bmemb-blur2)"/>
+
+  <!-- embossed monogram on glass -->
+  <text x="120" y="191.4" font-family="Archivo,'Arial Black',sans-serif" font-size="30" font-weight="900" letter-spacing="2" text-anchor="middle" fill="#ffffff" opacity="0.9">BM</text>
+  <text x="120" y="190" font-family="Archivo,'Arial Black',sans-serif" font-size="30" font-weight="900" letter-spacing="2" text-anchor="middle" fill="#b3a996">BM</text>
+  <text x="120" y="207" font-family="Archivo,'Arial Black',sans-serif" font-size="6.5" font-weight="700" letter-spacing="3" text-anchor="middle" fill="#a89f8d">GRADE A</text>
+
+  <!-- blood pooled on the mouth, running down the glass -->
+  <rect x="99" y="70" width="42" height="9" rx="4.5" fill="url(#bmemb-blood)"/>
+  <path d="M129 76 C130.5 92 131.5 110 131 124 C130.7 129.5 125.3 129.5 125 124 C124.5 110 125 92 124 76 Z" fill="url(#bmemb-blood)"/>
+  <path d="M109 76 C109.5 86 110 96 109.5 104 C109.2 108.5 104.8 108.5 104.5 104 C104 96 104.5 86 104 76 Z" fill="url(#bmemb-blood)"/>
+  <use href="#bmemb-drop" transform="translate(128 140) scale(0.6)" fill="url(#bmemb-blood)"/>
+
+  <!-- outer rings -->
+  <ellipse cx="120" cy="152" rx="101" ry="129" fill="none" stroke="#dcd2ba" stroke-width="1" stroke-opacity="0.7"/>
+  <ellipse cx="120" cy="152" rx="96" ry="124" fill="none" stroke="#e9dfc8" stroke-width="2.5"/>
+  <rect x="-3" y="-3" width="6" height="6" transform="translate(24 152) rotate(45)" fill="#e9dfc8"/>
+  <rect x="-3" y="-3" width="6" height="6" transform="translate(216 152) rotate(45)" fill="#e9dfc8"/>
+
+  <!-- circular label text -->
+  <text font-family="Archivo,'Avenir Next',sans-serif" font-size="9.5" font-weight="700" letter-spacing="2" fill="#dcd2ba">
+    <textPath href="#bmemb-arcTop" startOffset="21%" text-anchor="middle">BLOODY MILK</textPath>
+  </text>
+  <text font-family="Archivo,'Avenir Next',sans-serif" font-size="9.5" font-weight="700" letter-spacing="2" fill="#dcd2ba">
+    <textPath href="#bmemb-arcTop" startOffset="79%" text-anchor="middle">AUDIO CO.</textPath>
+  </text>
+
+  <!-- banner ribbon -->
+  <path d="M56 251 L26 257 L35 265 L26 273 L56 271 Z" fill="url(#bmemb-ribbonDark)" stroke="#2a0208" stroke-width="0.8"/>
+  <path d="M184 251 L214 257 L205 265 L214 273 L184 271 Z" fill="url(#bmemb-ribbonDark)" stroke="#2a0208" stroke-width="0.8"/>
+  <path d="M54 274 L54 281 L63 274 Z" fill="#3f020a"/>
+  <path d="M186 274 L186 281 L177 274 Z" fill="#3f020a"/>
+  <path d="M54 248 Q120 256 186 248 L186 274 Q120 282 54 274 Z" fill="url(#bmemb-ribbon)" stroke="#2a0208" stroke-width="1"/>
+  <g fill="#f0e7d2" fill-rule="evenodd">
+    <path transform="translate(87.5 254.5)" d="M0 0 L0 20 L8.8 20 C13.8 20 16.6 18.1 16.6 14.6 C16.6 12.2 15.3 10.6 12.9 9.9 C14.9 9.1 15.9 7.6 15.9 5.2 C15.9 1.9 13.2 0 8.5 0 Z M4.2 3.4 L8 3.4 C10 3.4 11.1 4.2 11.1 5.8 C11.1 7.4 10 8.2 8 8.2 L4.2 8.2 Z M4.2 11.4 L8.5 11.4 C10.9 11.4 12.1 12.2 12.1 13.9 C12.1 15.7 10.9 16.6 8.5 16.6 L4.2 16.6 Z"/>
+    <path transform="translate(134 254.5)" d="M0 0 L5.6 0 L10 10.6 L14.4 0 L20 0 L20 20 L15.9 20 L15.9 7.6 L12.1 16.2 L7.9 16.2 L4.1 7.6 L4.1 20 L0 20 Z"/>
+    <rect x="-2.8" y="-2.8" width="5.6" height="5.6" transform="translate(120 265.5) rotate(45)" opacity="0.9"/>
+  </g>
+
+  <!-- blood violating the frame (over ring and lettering) -->
+  <path d="M78 42 C80 30 92 22 106 21 C114 20.5 126 20.5 134 21 C148 22 158 30 162 42 C161 47 158 49.5 154 51 C152 52 151 52.5 149.5 53 C150 60 150.5 67 150 72 C149.6 76.5 143.9 76.5 143.5 72 C143 65.5 142.5 59 141.5 54.5 C138.5 55.4 135.5 56 132 56.4 C130.5 56.6 129 56.8 127.5 56.9 C128 74 128.5 93 128 107 C127.7 112.5 121.3 112.5 121 107 C120.5 93 120 74 119.5 57 C116.5 56.9 113.5 56.5 110.5 56 C108 55.6 105.5 55 103 54.3 C102.7 61 102.4 68 102 73 C101.6 77.5 96.4 77.5 96 73 C95.6 66.5 95.4 60 95 53.8 C92.5 52.6 89.5 51.4 87 50 C83 48 80 45.5 78 42 Z" fill="url(#bmemb-blood)"/>
+  <ellipse cx="112" cy="27.5" rx="18" ry="3.5" transform="rotate(-4 112 27.5)" fill="#ff9aa0" opacity="0.5"/>
+  <rect x="122" y="62" width="2.2" height="34" rx="1.1" fill="#ff9aa0" opacity="0.55"/>
+  <rect x="145" y="56" width="1.8" height="12" rx="0.9" fill="#ff9aa0" opacity="0.5"/>
+  <rect x="98" y="57" width="1.8" height="13" rx="0.9" fill="#ff9aa0" opacity="0.5"/>
+  <use href="#bmemb-drop" transform="translate(124.5 126) scale(0.85)" fill="url(#bmemb-blood)"/>
+  <circle cx="123.5" cy="124.5" r="0.8" fill="#ff9aa0" opacity="0.6"/>
+
+  <!-- blood pooled on the banner -->
+  <ellipse cx="160.5" cy="250.5" rx="5.5" ry="2.4" fill="url(#bmemb-blood)"/>
+  <path d="M163 250 C163.6 260 164.2 270 163.8 279 C163.6 284 158.4 284 158.2 279 C157.8 270 158.4 260 158.2 250 C158.2 247.8 163 247.8 163 250 Z" fill="url(#bmemb-blood)"/>
+  <use href="#bmemb-drop" transform="translate(160.5 290) scale(0.6)" fill="url(#bmemb-blood)"/>
+
+  <!-- footer caption -->
+  <text x="120" y="304" font-family="Archivo,'Avenir Next',sans-serif" font-size="7" font-weight="600" letter-spacing="1.4" text-anchor="middle" fill="#7d7566">DAIRY OF THE DAMNED · EST. MMXXVI</text>
+</svg>15:["$","article","Печатка молочарні з пекла (емблема-бейдж)",{"className":"glass-panel overflow-hidden","children":[["$","div",null,{"className":"flex justify-center bg-[#0d0d12] [&>svg]:h-auto [&>svg]:w-full [&>svg]:max-w-60","dangerouslySetInnerHTML":{"__html":"$2b"}}],"$L2c"]}]
+2d:T1d1a,<svg viewBox="0 0 240 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="BloodyMilk logo: realistic milk bottle with BM letters and blood drips">
+  <defs>
+    <radialGradient id="srx-vig" cx="50%" cy="42%" r="62%">
+      <stop offset="0" stop-color="#1d1e28"/>
+      <stop offset="0.7" stop-color="#121319"/>
+      <stop offset="1" stop-color="#0d0d12"/>
+    </radialGradient>
+    <linearGradient id="srx-bodyG" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#96a0ae"/>
+      <stop offset="0.06" stop-color="#c4cbd5"/>
+      <stop offset="0.16" stop-color="#edf0f4"/>
+      <stop offset="0.30" stop-color="#ffffff"/>
+      <stop offset="0.52" stop-color="#fbfcfd"/>
+      <stop offset="0.70" stop-color="#eceff3"/>
+      <stop offset="0.84" stop-color="#d2d8e0"/>
+      <stop offset="0.94" stop-color="#aeb6c2"/>
+      <stop offset="1" stop-color="#8b95a3"/>
+    </linearGradient>
+    <linearGradient id="srx-neckG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7e8c9c" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7e8c9c" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="srx-baseG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8894a4" stop-opacity="0"/>
+      <stop offset="0.7" stop-color="#8894a4" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#77839a" stop-opacity="0.68"/>
+    </linearGradient>
+    <linearGradient id="srx-streakG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="0.25" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="0.75" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="srx-bloodG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c11824"/>
+      <stop offset="0.45" stop-color="#97101b"/>
+      <stop offset="1" stop-color="#700310"/>
+    </linearGradient>
+    <radialGradient id="srx-poolG" cx="0.42" cy="0.35" r="0.85">
+      <stop offset="0" stop-color="#ef4650"/>
+      <stop offset="0.55" stop-color="#c01a26"/>
+      <stop offset="1" stop-color="#8c0a15"/>
+    </radialGradient>
+    <linearGradient id="srx-letG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b81523"/>
+      <stop offset="0.55" stop-color="#8c0713"/>
+      <stop offset="1" stop-color="#6d020c"/>
+    </linearGradient>
+    <radialGradient id="srx-dropG" cx="0.35" cy="0.3" r="0.9">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="0.45" stop-color="#eef4f7" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#9fb0bd" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="srx-b1" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="1"/>
+    </filter>
+    <filter id="srx-b2" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+    <filter id="srx-b5" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+    <path id="srx-bottle" d="M94 52 L94 78 C94 92 70 96 66 116 C64 126 63 140 63 160 L63 262 C63 276 72 284 88 284 L152 284 C168 284 177 276 177 262 L177 160 C177 140 176 126 174 116 C170 96 146 92 146 78 L146 52 Z"/>
+    <path id="srx-bm" fill-rule="evenodd" d="M72 175 L96 175 C110 175 116 181 116 189.5 C116 196 112.5 200 107 201.5 C113.5 203 118 207.5 118 214.5 C118 223 111 227 97 227 L72 227 Z M84 185.5 L94 185.5 C100 185.5 103 187.5 103 191.5 C103 195.5 100 197.5 94 197.5 L84 197.5 Z M84 206.5 L95 206.5 C102 206.5 105 208.5 105 212.8 C105 217 102 219 95 219 L84 219 Z M128 227 L128 175 L143 175 L152 202 L161 175 L176 175 L176 227 L163 227 L163 196 L155 220 L149 220 L141 196 L141 227 Z"/>
+    <clipPath id="srx-clip">
+      <use href="#srx-bottle"/>
+    </clipPath>
+  </defs>
+  <rect x="0" y="0" width="240" height="320" fill="#0d0d12"/>
+  <rect x="0" y="0" width="240" height="320" fill="url(#srx-vig)"/>
+  <ellipse cx="120" cy="294" rx="68" ry="10" fill="#000000" opacity="0.6" filter="url(#srx-b5)"/>
+  <ellipse cx="120" cy="288" rx="48" ry="5" fill="#000000" opacity="0.5" filter="url(#srx-b2)"/>
+  <use href="#srx-bottle" fill="url(#srx-bodyG)"/>
+  <g clip-path="url(#srx-clip)">
+    <rect x="60" y="250" width="120" height="36" fill="url(#srx-baseG)"/>
+    <ellipse cx="120" cy="277" rx="38" ry="4.5" fill="#ffffff" opacity="0.55" filter="url(#srx-b2)"/>
+    <ellipse cx="120" cy="279" rx="22" ry="2.6" fill="#dff3f5" opacity="0.5" filter="url(#srx-b1)"/>
+    <rect x="88" y="52" width="64" height="46" fill="url(#srx-neckG)"/>
+    <rect x="92" y="52" width="56" height="8" fill="#5c6a78" opacity="0.45" filter="url(#srx-b2)"/>
+    <rect x="76" y="126" width="10" height="142" rx="5" fill="url(#srx-streakG)" filter="url(#srx-b1)"/>
+    <rect x="167" y="130" width="3.5" height="128" rx="1.75" fill="#ffffff" opacity="0.3" filter="url(#srx-b1)"/>
+    <ellipse cx="88" cy="106" rx="10" ry="5" fill="#ffffff" opacity="0.5" filter="url(#srx-b2)" transform="rotate(-35 88 106)"/>
+    <g>
+      <circle cx="80" cy="238" r="1.6" fill="url(#srx-dropG)"/>
+      <rect x="90.2" y="240" width="1.6" height="12" rx="0.8" fill="#ffffff" opacity="0.18"/>
+      <circle cx="91" cy="252" r="2.2" fill="url(#srx-dropG)"/>
+      <rect x="151.3" y="230" width="1.6" height="14" rx="0.8" fill="#ffffff" opacity="0.18"/>
+      <circle cx="152" cy="244" r="2.4" fill="url(#srx-dropG)"/>
+      <circle cx="162" cy="258" r="1.5" fill="url(#srx-dropG)"/>
+      <circle cx="104" cy="268" r="1.3" fill="url(#srx-dropG)"/>
+      <circle cx="140" cy="266" r="1.8" fill="url(#srx-dropG)"/>
+    </g>
+  </g>
+  <g transform="matrix(0.92 0 0 0.92 5.92 16.08)">
+    <use href="#srx-bm" transform="translate(0 2.4)" fill="#2a0206" opacity="0.55" filter="url(#srx-b1)"/>
+    <use href="#srx-bm" transform="translate(0 -1.4)" fill="#ffffff" opacity="0.6"/>
+    <use href="#srx-bm" fill="url(#srx-letG)"/>
+  </g>
+  <path d="M140 60 C142 76 146 96 152 112 C155.5 121 162 119 160 110 C156 94 148 74 145 58 Z" fill="url(#srx-bloodG)"/>
+  <path d="M144.5 66 C146.5 80 150 96 154 108" fill="none" stroke="#ff8f96" stroke-width="1.6" stroke-linecap="round" opacity="0.5"/>
+  <path d="M88 46 C88 39 100 36 120 36 C140 36 152 39 152 46 L152 56 C152 61 149 61 148 66 C147 74 144.5 79 141 79 C137.5 79 135 74 134 66 C133 60 131.5 59 130 61 C128.5 63 128 72 128 86 C128 104 124.5 113 119 113 C113.5 113 110 104 110 86 C110 72 109.5 63 108 61 C106.5 59 105 60 104 66 C103 74 100.5 87 96.5 87 C92.5 87 91 76 90 68 C89.2 61 88 61 88 56 Z" fill="url(#srx-bloodG)"/>
+  <ellipse cx="120" cy="42" rx="26" ry="5.5" fill="url(#srx-poolG)"/>
+  <path d="M100 41 C106 38 114 37.2 123 37.8" fill="none" stroke="#ff98a0" stroke-width="2" stroke-linecap="round" opacity="0.65"/>
+  <path d="M114 66 C112.5 80 112.8 96 115 105" fill="none" stroke="#ff8f96" stroke-width="1.8" stroke-linecap="round" opacity="0.55"/>
+  <path d="M94.5 64 C93.8 72 93.8 80 95 84" fill="none" stroke="#ff8f96" stroke-width="1.4" stroke-linecap="round" opacity="0.5"/>
+  <path d="M139 62 L138.4 72" fill="none" stroke="#ff8f96" stroke-width="1.3" stroke-linecap="round" opacity="0.45"/>
+  <path d="M119 118.5 C116.5 123.5 115.8 127.5 117.2 129.6 C118.2 131 119.8 131 120.8 129.6 C122.2 127.5 121.5 123.5 119 118.5 Z" fill="url(#srx-bloodG)"/>
+  <circle cx="118" cy="126.5" r="0.9" fill="#ffb3b8" opacity="0.8"/>
+</svg>16:["$","article","Sculpted Bottle — продуктовий 3D-реалізм",{"className":"glass-panel overflow-hidden","children":[["$","div",null,{"className":"flex justify-center bg-[#0d0d12] [&>svg]:h-auto [&>svg]:w-full [&>svg]:max-w-60","dangerouslySetInnerHTML":{"__html":"$2d"}}],"$L2e"]}]
+17:["$","span",null,{"className":"[&>svg]:size-12","dangerouslySetInnerHTML":{"__html":"<svg viewBox=\"0 0 96 96\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\">\n  <g stroke=\"currentColor\" stroke-linecap=\"butt\">\n    <g stroke-width=\"6.5\">\n      <path d=\"M54.1 57 A14 14 0 0 1 29.9 57\"/>\n      <path d=\"M28.2 47.6 A14 14 0 0 1 54.1 43\"/>\n    </g>\n    <g stroke-width=\"5\">\n      <path d=\"M55.8 69.7 A24 24 0 0 1 19.5 58.2\"/>\n      <path d=\"M18.8 43.8 A24 24 0 0 1 46.2 26.4\"/>\n      <path d=\"M64.6 58.2 A24 24 0 0 1 60.4 65.4\"/>\n    </g>\n    <g stroke-width=\"4\">\n      <path d=\"M36.1 83.5 A34 34 0 0 1 8.5 55.9\"/>\n      <path d=\"M14.2 30.5 A34 34 0 0 1 45 16.1\"/>\n      <path d=\"M68 71.9 A34 34 0 0 1 53.6 82\"/>\n    </g>\n  </g>\n  <g fill=\"currentColor\">\n    <polygon points=\"79.7,23.6 66.4,37.8 61.8,31.2\"/>\n    <polygon points=\"85.3,42.3 70.1,48.1 69.1,42.2\"/>\n    <polygon points=\"63,13.6 58.7,26.2 54.3,23.7\"/>\n  </g>\n  <circle cx=\"42\" cy=\"50\" r=\"8\" fill=\"#FF4D5E\"/>\n</svg>"}}]
+18:["$","span",null,{"className":"[&>svg]:size-6","dangerouslySetInnerHTML":{"__html":"<svg viewBox=\"0 0 96 96\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\">\n  <g stroke=\"currentColor\" stroke-linecap=\"butt\">\n    <g stroke-width=\"6.5\">\n      <path d=\"M54.1 57 A14 14 0 0 1 29.9 57\"/>\n      <path d=\"M28.2 47.6 A14 14 0 0 1 54.1 43\"/>\n    </g>\n    <g stroke-width=\"5\">\n      <path d=\"M55.8 69.7 A24 24 0 0 1 19.5 58.2\"/>\n      <path d=\"M18.8 43.8 A24 24 0 0 1 46.2 26.4\"/>\n      <path d=\"M64.6 58.2 A24 24 0 0 1 60.4 65.4\"/>\n    </g>\n    <g stroke-width=\"4\">\n      <path d=\"M36.1 83.5 A34 34 0 0 1 8.5 55.9\"/>\n      <path d=\"M14.2 30.5 A34 34 0 0 1 45 16.1\"/>\n      <path d=\"M68 71.9 A34 34 0 0 1 53.6 82\"/>\n    </g>\n  </g>\n  <g fill=\"currentColor\">\n    <polygon points=\"79.7,23.6 66.4,37.8 61.8,31.2\"/>\n    <polygon points=\"85.3,42.3 70.1,48.1 69.1,42.2\"/>\n    <polygon points=\"63,13.6 58.7,26.2 54.3,23.7\"/>\n  </g>\n  <circle cx=\"42\" cy=\"50\" r=\"8\" fill=\"#FF4D5E\"/>\n</svg>"}}]
+19:["$","p",null,{"className":"hud-label mt-5 text-accent","children":["Знак ",2]}]
+1a:["$","h3",null,{"className":"mt-2 font-display text-lg font-extrabold uppercase tracking-[0.02em]","children":"Shockwave Burst — «Ударна хвиля»"}]
+1b:["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-ink-lo","children":"Знак абстрагує сам удар: кривавий епіцентр, від якого розходяться розсічені концентричні кільця (візуальна метафора velocity-шарів × round-robin), а у верхньо-правому «розриві» хвилі вилітають гострі осколки — асиметрія дає рух і агресію під modern metal. Основна геометрія на currentColor працює в будь-якій майбутній стилістиці сайту, а єдиний акцент — червоний епіцентр — тримає зв'язок із BloodyMilk і є очевидним центром для пульс-анімації «удару». Товсті butt-cap дуги гарантують читабельність на 24px, а шаруватість і рвані розриви розкриваються на 200px."}]
+1c:["$","article","Drop Beater — «Крапля-бітер» (ДНК бренду)",{"className":"glass-panel p-7","children":[["$","div",null,{"className":"flex items-end gap-8 text-milk","children":[["$","span",null,{"className":"[&>svg]:size-40","dangerouslySetInnerHTML":{"__html":"<svg viewBox=\"0 0 96 96\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\">\n  <rect x=\"44.5\" y=\"4\" width=\"7\" height=\"22\" fill=\"currentColor\"/>\n  <path fill=\"currentColor\" d=\"M48 64 C39.5 55 34 47.5 34 40.5 A14 14 0 0 1 62 40.5 C62 47.5 56.5 55 48 64 Z\"/>\n  <circle cx=\"48\" cy=\"42\" r=\"5.2\" fill=\"#FF4D5E\"/>\n  <path stroke=\"currentColor\" stroke-width=\"7\" stroke-linecap=\"round\" d=\"M6 70 Q22 70 32 73.5\"/>\n  <path stroke=\"currentColor\" stroke-width=\"7\" stroke-linecap=\"round\" d=\"M64 73.5 Q74 70 90 70\"/>\n  <path stroke=\"currentColor\" stroke-width=\"7\" stroke-linecap=\"round\" d=\"M36 76 Q48 82 60 76\"/>\n  <path fill=\"currentColor\" d=\"M26 56 L34 62 L28 66 Z\"/>\n  <path fill=\"currentColor\" d=\"M70 56 L62 62 L68 66 Z\"/>\n</svg>"}}],["$","span",null,{"className":"[&>svg]:size-12","dangerouslySetInnerHTML":{"__html":"<svg viewBox=\"0 0 96 96\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\">\n  <rect x=\"44.5\" y=\"4\" width=\"7\" height=\"22\" fill=\"currentColor\"/>\n  <path fill=\"currentColor\" d=\"M48 64 C39.5 55 34 47.5 34 40.5 A14 14 0 0 1 62 40.5 C62 47.5 56.5 55 48 64 Z\"/>\n  <circle cx=\"48\" cy=\"42\" r=\"5.2\" fill=\"#FF4D5E\"/>\n  <path stroke=\"currentColor\" stroke-width=\"7\" stroke-linecap=\"round\" d=\"M6 70 Q22 70 32 73.5\"/>\n  <path stroke=\"currentColor\" stroke-width=\"7\" stroke-linecap=\"round\" d=\"M64 73.5 Q74 70 90 70\"/>\n  <path stroke=\"currentColor\" stroke-width=\"7\" stroke-linecap=\"round\" d=\"M36 76 Q48 82 60 76\"/>\n  <path fill=\"currentColor\" d=\"M26 56 L34 62 L28 66 Z\"/>\n  <path fill=\"currentColor\" d=\"M70 56 L62 62 L68 66 Z\"/>\n</svg>"}}],["$","span",null,{"className":"[&>svg]:size-6","dangerouslySetInnerHTML":{"__html":"<svg viewBox=\"0 0 96 96\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\">\n  <rect x=\"44.5\" y=\"4\" width=\"7\" height=\"22\" fill=\"currentColor\"/>\n  <path fill=\"currentColor\" d=\"M48 64 C39.5 55 34 47.5 34 40.5 A14 14 0 0 1 62 40.5 C62 47.5 56.5 55 48 64 Z\"/>\n  <circle cx=\"48\" cy=\"42\" r=\"5.2\" fill=\"#FF4D5E\"/>\n  <path stroke=\"currentColor\" stroke-width=\"7\" stroke-linecap=\"round\" d=\"M6 70 Q22 70 32 73.5\"/>\n  <path stroke=\"currentColor\" stroke-width=\"7\" stroke-linecap=\"round\" d=\"M64 73.5 Q74 70 90 70\"/>\n  <path stroke=\"currentColor\" stroke-width=\"7\" stroke-linecap=\"round\" d=\"M36 76 Q48 82 60 76\"/>\n  <path fill=\"currentColor\" d=\"M26 56 L34 62 L28 66 Z\"/>\n  <path fill=\"currentColor\" d=\"M70 56 L62 62 L68 66 Z\"/>\n</svg>"}}]]}],["$","p",null,{"className":"hud-label mt-5 text-accent","children":["Знак ",3]}],["$","h3",null,{"className":"mt-2 font-display text-lg font-extrabold uppercase tracking-[0.02em]","children":"Drop Beater — «Крапля-бітер» (ДНК бренду)"}],["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-ink-lo","children":"Гібрид краплі молока/крові та бітера бас-бочки: крапля-головка на штоку бʼє в мембрану, яка прогинається в точці удару, бризки по боках. Червоне ядро в бульбі краплі — місток до пляшки BloodyMilk і готова точка пульс-анімації. currentColor + один акцент; читається на 24px."}]]}]
+1d:["$","article","Alpha Crest — «Герб альфи»",{"className":"glass-panel p-7","children":[["$","div",null,{"className":"flex items-end gap-8 text-milk","children":[["$","span",null,{"className":"[&>svg]:size-40","dangerouslySetInnerHTML":{"__html":"<svg viewBox=\"0 0 96 96\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\">\n  <path stroke=\"currentColor\" stroke-width=\"5.5\" d=\"M48 7 L85 21 L85 52 L48 89 L11 52 L11 21 Z\"/>\n  <path stroke=\"currentColor\" stroke-width=\"8\" d=\"M63 33 C55 25 38 25.5 33 37 C27.5 50 34 63 46 62 C56 61 61 51 62 41\"/>\n  <path stroke=\"currentColor\" stroke-width=\"8\" d=\"M62 31 C60.5 44 62.5 56 69 64\"/>\n  <circle cx=\"63.5\" cy=\"51\" r=\"5\" fill=\"#FF4D5E\"/>\n</svg>"}}],["$","span",null,{"className":"[&>svg]:size-12","dangerouslySetInnerHTML":{"__html":"<svg viewBox=\"0 0 96 96\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\">\n  <path stroke=\"currentColor\" stroke-width=\"5.5\" d=\"M48 7 L85 21 L85 52 L48 89 L11 52 L11 21 Z\"/>\n  <path stroke=\"currentColor\" stroke-width=\"8\" d=\"M63 33 C55 25 38 25.5 33 37 C27.5 50 34 63 46 62 C56 61 61 51 62 41\"/>\n  <path stroke=\"currentColor\" stroke-width=\"8\" d=\"M62 31 C60.5 44 62.5 56 69 64\"/>\n  <circle cx=\"63.5\" cy=\"51\" r=\"5\" fill=\"#FF4D5E\"/>\n</svg>"}}],["$","span",null,{"className":"[&>svg]:size-6","dangerouslySetInnerHTML":{"__html":"<svg viewBox=\"0 0 96 96\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\">\n  <path stroke=\"currentColor\" stroke-width=\"5.5\" d=\"M48 7 L85 21 L85 52 L48 89 L11 52 L11 21 Z\"/>\n  <path stroke=\"currentColor\" stroke-width=\"8\" d=\"M63 33 C55 25 38 25.5 33 37 C27.5 50 34 63 46 62 C56 61 61 51 62 41\"/>\n  <path stroke=\"currentColor\" stroke-width=\"8\" d=\"M62 31 C60.5 44 62.5 56 69 64\"/>\n  <circle cx=\"63.5\" cy=\"51\" r=\"5\" fill=\"#FF4D5E\"/>\n</svg>"}}]]}],["$","p",null,{"className":"hud-label mt-5 text-accent","children":["Знак ",4]}],["$","h3",null,{"className":"mt-2 font-display text-lg font-extrabold uppercase tracking-[0.02em]","children":"Alpha Crest — «Герб альфи»"}],["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-ink-lo","children":"Грецька α, перекована в емблемний знак у гострому щиті-клинку: одна вага штриха, рубані термінали, вузол петлі α — центр удару з кривавим ядром. Емблемна форма добре живе на мерчі/бейджах і в фавіконі; currentColor + один акцент."}]]}]
+1e:["$","article",null,{"className":"glass-panel p-7 opacity-70","children":[["$","div",null,{"className":"flex items-end gap-8 text-milk","children":[["$","svg",null,{"viewBox":"0 0 64 64","role":"img","aria-label":"AlphaDrums","className":"size-40","fill":"none","children":[["$","path",null,{"fill":"currentColor","fillRule":"evenodd","d":"M57 32a25 25 0 1 1-50 0 25 25 0 1 1 50 0Zm-5 0a20 20 0 1 0-40 0 20 20 0 1 0 40 0Z"}],["$","g",null,{"fill":"currentColor","children":[["$","rect","0",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(0 32 32)"}],["$","rect","45",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(45 32 32)"}],["$","rect","90",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(90 32 32)"}],["$","rect","135",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(135 32 32)"}],["$","rect","180",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(180 32 32)"}],["$","rect","225",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(225 32 32)"}],["$","rect","270",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(270 32 32)"}],["$","rect","315",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(315 32 32)"}]]}],["$","path",null,{"fill":"currentColor","fillRule":"evenodd","d":"M32 14 49 41H15L32 14Zm0 7.5L22.2 37h19.6L32 21.5Z"}],["$","circle",null,{"cx":"32","cy":"31.5","r":"4.8","fill":"var(--accent)"}]]}],["$","svg",null,{"viewBox":"0 0 64 64","role":"img","aria-label":"AlphaDrums","className":"size-12","fill":"none","children":[["$","path",null,{"fill":"currentColor","fillRule":"evenodd","d":"M57 32a25 25 0 1 1-50 0 25 25 0 1 1 50 0Zm-5 0a20 20 0 1 0-40 0 20 20 0 1 0 40 0Z"}],["$","g",null,{"fill":"currentColor","children":[["$","rect","0",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(0 32 32)"}],["$","rect","45",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(45 32 32)"}],["$","rect","90",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(90 32 32)"}],["$","rect","135",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(135 32 32)"}],["$","rect","180",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(180 32 32)"}],["$","rect","225",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(225 32 32)"}],["$","rect","270",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(270 32 32)"}],["$","rect","315",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(315 32 32)"}]]}],["$","path",null,{"fill":"currentColor","fillRule":"evenodd","d":"M32 14 49 41H15L32 14Zm0 7.5L22.2 37h19.6L32 21.5Z"}],["$","circle",null,{"cx":"32","cy":"31.5","r":"4.8","fill":"var(--accent)"}]]}],["$","svg",null,{"viewBox":"0 0 64 64","role":"img","aria-label":"AlphaDrums","className":"size-6","fill":"none","children":[["$","path",null,{"fill":"currentColor","fillRule":"evenodd","d":"M57 32a25 25 0 1 1-50 0 25 25 0 1 1 50 0Zm-5 0a20 20 0 1 0-40 0 20 20 0 1 0 40 0Z"}],["$","g",null,{"fill":"currentColor","children":[["$","rect","0",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(0 32 32)"}],["$","rect","45",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(45 32 32)"}],["$","rect","90",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(90 32 32)"}],["$","rect","135",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(135 32 32)"}],["$","rect","180",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(180 32 32)"}],["$","rect","225",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(225 32 32)"}],["$","rect","270",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(270 32 32)"}],["$","rect","315",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(315 32 32)"}]]}],["$","path",null,{"fill":"currentColor","fillRule":"evenodd","d":"M32 14 49 41H15L32 14Zm0 7.5L22.2 37h19.6L32 21.5Z"}],["$","circle",null,{"cx":"32","cy":"31.5","r":"4.8","fill":"var(--accent)"}]]}]]}],["$","p",null,{"className":"hud-label mt-5 text-ink-lo","children":"Поточний (S1)"}],["$","h3",null,{"className":"mt-2 font-display text-lg font-extrabold uppercase tracking-[0.02em]","children":"Top-View: мембрана — плейсхолдер"}],["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-ink-lo","children":"Для порівняння: знак, що зараз у навбарі/фавіконі. За рішенням користувача — тимчасовий."}]]}]
+1f:["$","a",null,{"href":"#b","className":"inline-flex items-center justify-center rounded-full font-display font-bold uppercase tracking-btn transition-colors duration-200 bg-accent text-accent-ink glow-accent hover:bg-accent-hi hover:glow-accent-hi h-12 px-7 text-[13px]","children":"Get AlphaDrums"}]
+20:["$","span",null,{"className":"chip border","style":{"background":"#0a1210","color":"#7beaf2","borderColor":"rgb(66 196 206 / 35%)","--accent":"#42c4ce"},"children":"product window · teal стається product-шаром"}]
+21:["$","div",null,{"className":"flex gap-2 px-7 pb-7","children":[["$","span","#f6f1e8",{"className":"h-8 w-14 rounded-el border border-line","style":{"background":"#f6f1e8"},"title":"#f6f1e8"}],["$","span","#fff6ef",{"className":"h-8 w-14 rounded-el border border-line","style":{"background":"#fff6ef"},"title":"#fff6ef"}],["$","span","#161310",{"className":"h-8 w-14 rounded-el border border-line","style":{"background":"#161310"},"title":"#161310"}],["$","span","#c40016",{"className":"h-8 w-14 rounded-el border border-line","style":{"background":"#c40016"},"title":"#c40016"}],["$","span","#ff4d5e",{"className":"h-8 w-14 rounded-el border border-line","style":{"background":"#ff4d5e"},"title":"#ff4d5e"}]]}]
+22:["$","div",null,{"className":"grid gap-6 p-7 md:grid-cols-3","children":[["$","div",null,{"children":[["$","p",null,{"className":"hud-label text-accent","children":"Плюси"}],["$","ul",null,{"className":"mt-3 space-y-2 text-sm leading-relaxed text-ink-lo","children":[["$","li","Максимальна відмінність: УСІ конкуренти темні — світлий metal-сайт буде єдиним",{"children":"Максимальна відмінність: УСІ конкуренти темні — світлий metal-сайт буде єдиним"}],["$","li","Буквальна айдентика бренду: кров на молоці; пляшка-лого живе ідеально",{"children":"Буквальна айдентика бренду: кров на молоці; пляшка-лого живе ідеально"}],["$","li","Бренд масштабується: наступний плагін — ще одне «темне вікно» в молочній галереї",{"children":"Бренд масштабується: наступний плагін — ще одне «темне вікно» в молочній галереї"}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"hud-label text-solo","children":"Ризики"}],["$","ul",null,{"className":"mt-3 space-y-2 text-sm leading-relaxed text-ink-lo","children":[["$","li","Сміливо для metal-аудиторії: ризик прочитатись «не по-металевому», рятує кров і типографіка",{"children":"Сміливо для metal-аудиторії: ризик прочитатись «не по-металевому», рятує кров і типографіка"}],["$","li","Ретемінг токенів і перегляд glass/glow-мови (робота ~1 сесія)",{"children":"Ретемінг токенів і перегляд glass/glow-мови (робота ~1 сесія)"}],["$","li","Скріншоти темного UI плагіна потребують «вікон»-рамок",{"children":"Скріншоти темного UI плагіна потребують «вікон»-рамок"}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"hud-label text-milk","children":"Коли обирати"}],["$","p",null,{"className":"mt-3 text-sm leading-relaxed text-ink-lo","children":"Якщо пріоритет — бренд BloodyMilk на роки і максимальне виділення з категорії; «underground у змісті, luxury у формі» (висновок бренд-аналізу)."}]]}]]}]
+23:["$","article",null,{"className":"glass-panel overflow-hidden","children":[["$","div",null,{"className":"relative overflow-hidden border-b border-line p-10","style":{"background":"radial-gradient(70% 90% at 65% 20%, #2a1e18 0%, #171210 45%, #100d0c 100%)","--accent":"#ff4d5e","--accent-hi":"#ff8f96","--accent-ink":"#1a0508"},"children":[["$","svg",null,{"viewBox":"0 0 64 64","role":"img","aria-label":"AlphaDrums","className":"pointer-events-none absolute -right-8 -top-8 size-56 text-[#3a2e28] opacity-60","fill":"none","children":[["$","path",null,{"fill":"currentColor","fillRule":"evenodd","d":"M57 32a25 25 0 1 1-50 0 25 25 0 1 1 50 0Zm-5 0a20 20 0 1 0-40 0 20 20 0 1 0 40 0Z"}],["$","g",null,{"fill":"currentColor","children":[["$","rect","0",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(0 32 32)"}],["$","rect","45",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(45 32 32)"}],["$","rect","90",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(90 32 32)"}],["$","rect","135",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(135 32 32)"}],["$","rect","180",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(180 32 32)"}],["$","rect","225",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(225 32 32)"}],["$","rect","270",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(270 32 32)"}],["$","rect","315",{"x":"56","y":"29.25","width":"6","height":"5.5","transform":"rotate(315 32 32)"}]]}],["$","path",null,{"fill":"currentColor","fillRule":"evenodd","d":"M32 14 49 41H15L32 14Zm0 7.5L22.2 37h19.6L32 21.5Z"}],["$","circle",null,{"cx":"32","cy":"31.5","r":"4.8","fill":"var(--accent)"}]]}],["$","p",null,{"className":"hud-label","style":{"color":"#ff4d5e"},"children":"C · Студійна темрява — фото-перший · warm dark"}],["$","p",null,{"className":"display-title mt-4 text-4xl text-[#f3ece4] md:text-5xl","children":["Hit hard.",["$","br",null,{}],"Hide nothing."]}],["$","div",null,{"className":"mt-6 flex flex-wrap items-center gap-4","children":[["$","a",null,{"href":"#c","className":"inline-flex items-center justify-center rounded-full font-display font-bold uppercase tracking-btn transition-colors duration-200 bg-accent text-accent-ink glow-accent hover:bg-accent-hi hover:glow-accent-hi h-12 px-7 text-[13px]","children":"Get AlphaDrums"}],["$","span",null,{"className":"chip border border-line text-[#a89c92]","style":{"background":"rgb(0 0 0 / 35%)"},"children":"photo/render slot — драматичне світло, реальне залізо"}]]}]]}],["$","div",null,{"className":"flex gap-2 px-7 pb-7","children":[["$","span","#100d0c",{"className":"h-8 w-14 rounded-el border border-line","style":{"background":"#100d0c"},"title":"#100d0c"}],["$","span","#2a1e18",{"className":"h-8 w-14 rounded-el border border-line","style":{"background":"#2a1e18"},"title":"#2a1e18"}],["$","span","#f3ece4",{"className":"h-8 w-14 rounded-el border border-line","style":{"background":"#f3ece4"},"title":"#f3ece4"}],["$","span","#ff4d5e",{"className":"h-8 w-14 rounded-el border border-line","style":{"background":"#ff4d5e"},"title":"#ff4d5e"}],["$","span","#ffc23d",{"className":"h-8 w-14 rounded-el border border-line","style":{"background":"#ffc23d"},"title":"#ffc23d"}]]}],["$","div",null,{"className":"grid gap-6 p-7 md:grid-cols-3","children":[["$","div",null,{"children":[["$","p",null,{"className":"hud-label text-accent","children":"Плюси"}],["$","ul",null,{"className":"mt-3 space-y-2 text-sm leading-relaxed text-ink-lo","children":[["$","li","Фото/рендери барабанів «продають звук» — мова великих студійних брендів",{"children":"Фото/рендери барабанів «продають звук» — мова великих студійних брендів"}],["$","li","Безпечно для аудиторії + кров/молоко як бренд-акценти вплетені",{"children":"Безпечно для аудиторії + кров/молоко як бренд-акценти вплетені"}],["$","li","Тепла темрява відрізняє від teal-неону і від чорно-нейтральних конкурентів",{"children":"Тепла темрява відрізняє від teal-неону і від чорно-нейтральних конкурентів"}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"hud-label text-solo","children":"Ризики"}],["$","ul",null,{"className":"mt-3 space-y-2 text-sm leading-relaxed text-ink-lo","children":["$L2f","$L30"]}]]}],"$L31"]}]]}]
+26:null
+28:["$","div",null,{"className":"p-6","children":[["$","p",null,{"className":"hud-label text-accent","children":["Пляшка ",2]}],["$","h3",null,{"className":"mt-2 font-display text-lg font-extrabold uppercase tracking-[0.02em]","children":"Nordic Cut — minimal-premium"}],["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-ink-lo","children":"Струнка молочна пляшка як чисте біле полотно: обʼєм побудований лише градієнтами скла (лівий блік, праве ядро тіні, товщина губи) без жодного декору. Монограма B/M — дрібна, моноширинної ваги, посаджена в нижню третину як друк на склі; єдиний глянцевий кривавий патьок стікає від горлечка і завершується краплею з бліком — один удар жаху в стерильному скандинавському мінімалізмі. SVG самодостатній (темна підкладка #0d0d12 включена), всі id з префіксом mp-, синтаксис перевірено xmllint."}]]}]
+2a:["$","div",null,{"className":"p-6","children":[["$","p",null,{"className":"hud-label text-accent","children":["Пляшка ",3]}],["$","h3",null,{"className":"mt-2 font-display text-lg font-extrabold uppercase tracking-[0.02em]","children":"Slasher Flood"}],["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-ink-lo","children":"Класична скляна молочна пляшка, яку буквально залило кровʼю: глянцевий каповий «купол» з бліками стікає густими патьоками з бульбами на зриві, одна крапля вже відірвалась і падає в калюжку під пляшкою. Молоко всередині просвічує крізь скло (окремий шар з меніском і денною товщиною скла), а літери B і M — грубі, продряпані, з білими подряпинами й власними кривавими патьоками. Обʼєм побудований на циліндричних linearGradient для скла/молока, вертикальному градієнті крові та спекулярних бліках; усі id з префіксом fh-, тож SVG безпечно живе поруч з іншими варіантами."}]]}]
+2c:["$","div",null,{"className":"p-6","children":[["$","p",null,{"className":"hud-label text-accent","children":["Пляшка ",4]}],["$","h3",null,{"className":"mt-2 font-display text-lg font-extrabold uppercase tracking-[0.02em]","children":"Печатка молочарні з пекла (емблема-бейдж)"}],["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-ink-lo","children":"Вінтажна овальна dairy-етикетка: подвійна кремова рамка з дрібним текстом по дузі, прошитий пунктирний кант і банер-стрічка з жирними літерами B ◆ M — офіційна «печатка» лейбла. Реалістична біла пляшка з ембосом BM зібрана на градієнтах (скляні бліки, тінь, вертикальне затемнення до денця), а глянцева кров ллється згори ПОВЕРХ рамки й тексту, стікає по пляшці та крапає з банера — порушення меж і є характер бренду. Всі id з префіксом bmemb-, без зовнішніх ресурсів."}]]}]
+2e:["$","div",null,{"className":"p-6","children":[["$","p",null,{"className":"hud-label text-accent","children":["Пляшка ",5]}],["$","h3",null,{"className":"mt-2 font-display text-lg font-extrabold uppercase tracking-[0.02em]","children":"Sculpted Bottle — продуктовий 3D-реалізм"}],["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-ink-lo","children":"Векторна «студійна» візуалізація молочної пляшки: 9-стопний горизонтальний градієнт дає циліндричний обʼєм, каустика та потовщення скла біля дна, конденсат із патьоками, мʼяка подвійна тінь під дном. Кров — окрема глянцева рідина: пул з меніском на горлі, язики-підтікання різної довжини зі спекулярними бліками та відірвана крапля в польоті. Літери BM — рельєфний друк кольору запеченої крові з верхнім світловим кантом і власною мʼякою тінню; всі id мають префікс srx-, растрових ресурсів немає."}]]}]
+2f:["$","li","Потребує якісних фото/рендерів (є лише скріншоти UI; сцену треба рендерити)",{"children":"Потребує якісних фото/рендерів (є лише скріншоти UI; сцену треба рендерити)"}]
+30:["$","li","Найменш «власний»: категорія так уже виглядає (Toontrack/GGD-ліга)",{"children":"Найменш «власний»: категорія так уже виглядає (Toontrack/GGD-ліга)"}]
+31:["$","div",null,{"children":[["$","p",null,{"className":"hud-label text-milk","children":"Коли обирати"}],["$","p",null,{"className":"mt-3 text-sm leading-relaxed text-ink-lo","children":"Якщо буде доступ до якісного фото/3D-контенту і пріоритет — «дорогий» студійний тон без ризиків світлого напряму."}]]}]

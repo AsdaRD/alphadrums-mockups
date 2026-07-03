@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[39756,["/alphadrums-mockups/_next/static/chunks/2fv_3g98xv1or.js","/alphadrums-mockups/_next/static/chunks/35f5-__hch43f.js","/alphadrums-mockups/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[37457,["/alphadrums-mockups/_next/static/chunks/2fv_3g98xv1or.js","/alphadrums-mockups/_next/static/chunks/35f5-__hch43f.js","/alphadrums-mockups/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"BqxN3uZtxWoRE27pZ8ej6"}
